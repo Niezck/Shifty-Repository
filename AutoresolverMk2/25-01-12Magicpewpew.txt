@@ -1,0 +1,15 @@
+*****Battle report: 25-01-12Magicpewpew.txt*****
+
+[Starting Stats]:
+
+[b]Player fleet receives a power bonus of 1[/b]
+
+[b]Player fleet will flee if all command ships are destroyed.[/b]
+[b][color=green]Player Command Ship 1: Command Rating 9, Power 4, HP 0[/b][/color]
+[color=green]Player Ship 1: Power 10, Shield Mitigation 7, Shield Strength 50, HP 67 (Commanded +5 by Player Command Ship 1)[/color]
+
+[b][color=red]AI Command Ship 1: Command Rating 10, Power 6, HP 1[/b][/color]
+[color=red]AI Ship 1: Power 9, Shield Mitigation 6, Shield Strength 60, HP 21 (Commanded +5 by AI Command Ship 1)[/color]
+
+[Combat Details]:
+[b][color=green]Player Command Ship 1 rolled 2 + 13 [+9 Sup] vs AI Ship 1's 5 + 14 [+5 Sup], dealing 0 damage [-6 Shield Mit][/b][/color].

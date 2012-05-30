@@ -1,0 +1,38 @@
+*****Battle report: tehe.txt*****
+
+[Starting Stats]:
+
+[b]Player fleet receives a power bonus of 1[/b]
+
+[b]Player fleet will flee if Blazing Dark is destroyed.[/b]
+[b][color=green]Gantrithor: Command Rating 9, Power 1, HP 1[/b][/color]
+[color=green]Blazing Dark: Power 4, Shield Mitigation 2, Shield Strength 4, HP 5 (Commanded +0 by Player Command Ship 1)[/color]
+
+[color=red]AI Ship 1: Power 2, Shield Mitigation 1, Shield Strength 8, HP 4 (Commanded +0 by AI Command Ship 0)[/color]
+[color=red]AI Ship 2: Power 2, Shield Mitigation 1, Shield Strength 8, HP 5 (Commanded +0 by AI Command Ship 0)[/color]
+
+[Combat Details]:
+[color=red]AI Ship 1 rolled 1 + 2 [+0 Sup] vs Blazing Dark's -5 + 4 [+0 Sup], dealing 2 damage! [-2 Shield Mit][/color]
+Player fleet has lost its temporary power bonus!
+[b][color=green]Gantrithor rolled 1 + 10 [+9 Sup] vs AI Ship 2's -1 + 2 [+0 Sup], dealing 9 damage [-1 Shield Mit][/b][/color].
+[color=blue]AI Ship 2 was destroyed![/color]
+[color=green]Blazing Dark rolled 6 + 3 [+0 Sup] vs AI Ship 1's -1 + 2 [+0 Sup], dealing 7 damage [-1 Shield Mit][/color]!
+[color=blue]AI Ship 1 was destroyed![/color]
+
+
+*****RESULTS*****
+
+Player wins!
+Gantrithor gained 3XP!
+
+[Losses]:
+
+AI Ship 1 destroyed!
+AI Ship 2 destroyed!
+
+[Finishing Stats]:
+[b][color=green]Gantrithor1: Command Rating 9, Power 1, HP 1/1[/b][/color]
+[color=green]Blazing Dark: Power 3, Shield Mitigation 2, Shield Strength 2, HP 3/5[/color]
+
+[color=red]AI Ship 1: Power 2, Shield Mitigation 1, Shield Strength 7, HP -3/4[/color]
+[color=red]AI Ship 2: Power 2, Shield Mitigation 1, Shield Strength 7, HP -4/5[/color]

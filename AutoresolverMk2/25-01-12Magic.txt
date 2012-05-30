@@ -1,0 +1,33 @@
+*****Battle report: 25-01-12Magic.txt*****
+
+[Starting Stats]:
+
+[b][color=green]Player Command Ship 1: Command Rating 5, Power 0, HP 1[/b][/color]
+[color=green]Player Ship 1: Power 2, Shield Mitigation 2, Shield Strength 8, HP 11 (Commanded +3 by Player Command Ship 1)[/color]
+
+[color=red]AI Ship 1: Power 2, Shield Mitigation 1, Shield Strength 8, HP 6 (Commanded +0 by AI Command Ship 0)[/color]
+
+[Combat Details]:
+[color=red]AI Ship 1 rolled 4 + 2 [+0 Sup] vs Player Ship 1's -4 + 5 [+3 Sup], dealing 3 damage! [-2 Shield Mit][/color]
+[color=red]AI Ship 1 rolled 5 + 2 [+0 Sup] vs Player Ship 1's -5 + 5 [+3 Sup], dealing 5 damage! [-2 Shield Mit][/color]
+[b][color=green]Player Command Ship 1 rolled -4 + 5 [+5 Sup] vs AI Ship 1's -4 + 2 [+0 Sup], dealing 2 damage [-1 Shield Mit][/b][/color].
+[color=green]Player Ship 1 rolled 4 + 5 [+3 Sup] vs AI Ship 1's 5 + 2 [+0 Sup], dealing 1 damage [-1 Shield Mit][/color]!
+[color=green]Player Ship 1 rolled 1 + 5 [+3 Sup] vs AI Ship 1's 1 + 2 [+0 Sup], dealing 2 damage [-1 Shield Mit][/color]!
+[b][color=green]Player Command Ship 1 rolled 0 + 5 [+5 Sup] vs AI Ship 1's -2 + 2 [+0 Sup], dealing 4 damage [-1 Shield Mit][/b][/color].
+[color=blue]AI Ship 1 was destroyed![/color]
+
+
+*****RESULTS*****
+
+Player wins!
+Player Command Ship 1 gained 2XP!
+
+[Losses]:
+
+AI Ship 1 destroyed!
+
+[Finishing Stats]:
+[b][color=green]Player Command Ship 1: Command Rating 5, Power 0, HP 1/1[/b][/color]
+[color=green]Player Ship 1: Power 2, Shield Mitigation 2, Shield Strength 4, HP 3/11[/color]
+
+[color=red]AI Ship 1: Power 2, Shield Mitigation 1, Shield Strength 4, HP -3/6[/color]

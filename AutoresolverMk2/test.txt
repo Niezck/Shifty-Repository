@@ -1,0 +1,17 @@
+Players = 1
+AIs = 2
+Player Command Ships = 1
+AI Command Ships = 0
+Player bonus = 1
+AI bonus = 0
+Player flee = 4/1
+AI flee = 0
+Temp Player Bonus = 1
+Temp Player Duration = 1
+Temp AI Bonus = 0
+Temp AI Duration = 0
+
+Gantrithor = Power: 1/Command: 1/Hull: 1
+Blazing Dark = Power: 0/Shield Mitigation: 2/Shield Strength: 4/Hull: 99/Shield Hull: 10/Temp Power: 1/Temp Power Duration: 1/Shield Str Power: 2/Shield Str Duration: 1/Shield Mit Power: 0/Shield Mit Duration:0
+1 = Power: 2/Shield Mitigation: 1/Shield Strength: 8/Hull: 40/Shield Hull: 0/Temp Power: 1/Temp Power Duration: 1/Shield Str Power: 0/Shield Str Duration: 0/Shield Mit Power: 0/Shield Mit Duration:0
+1 = Power: 2/Shield Mitigation: 1/Shield Strength: 8/Hull: 50/Shield Hull: 0/Temp Power: 1/Temp Power Duration: 1/Shield Str Power: 0/Shield Str Duration: 0/Shield Mit Power: 0/Shield Mit Duration:0

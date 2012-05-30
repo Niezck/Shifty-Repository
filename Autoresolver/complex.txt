@@ -1,0 +1,131 @@
+*****Battle report: complex.txt*****
+
+[Starting Stats]:
+Player General: Support 8
+Player Unit 1: HP1 Pwr1 Mit1
+Player Unit 2: HP1 Pwr1 Mit1
+Player Unit 3: HP1 Pwr1 Mit1
+Player Unit 4: HP1 Pwr1 Mit1
+Player Unit 5: HP1 Pwr1 Mit1
+Player Unit 6: HP1 Pwr1 Mit1
+Player Unit 7: HP1 Pwr1 Mit1
+Player Unit 8: HP1 Pwr1 Mit1
+Player Unit 9: HP1 Pwr1 Mit1
+Player Unit 10: HP1 Pwr1 Mit1
+Player Unit 11: HP1 Pwr1 Mit1
+Player Unit 12: HP1 Pwr1 Mit1
+Player Unit 13: HP1 Pwr1 Mit1
+Player Unit 14: HP1 Pwr1 Mit1
+Player Unit 15: HP1 Pwr1 Mit1
+Player Unit 16: HP1 Pwr1 Mit1
+Player Unit 17: HP1 Pwr1 Mit1
+Player Unit 18: HP1 Pwr1 Mit1
+Player Unit 19: HP1 Pwr1 Mit1
+Player Unit 20: HP1 Pwr1 Mit1
+
+AI General: Support 8
+AI Unit 1: HP8 Pwr5 Mit10
+AI Unit 2: HP8 Pwr5 Mit10
+AI Unit 3: HP8 Pwr5 Mit10
+AI Unit 4: HP8 Pwr5 Mit10
+AI Unit 5: HP8 Pwr5 Mit10
+
+[Combat Details]
+
+AI Unit 3 rolled 0 + 9 [+4 Sup] vs Player Unit 1's -2 + 5 [+4 Sup], dealing 5 [-1 Mit] damage.
+Player Unit 1 died.
+AI Unit 1 rolled -2 + 9 [+4 Sup] vs Player Unit 19's 0 + 1, dealing 5 [-1 Mit] damage.
+Player Unit 19 died.
+AI Unit 1 rolled 1 + 9 [+4 Sup] vs Player Unit 17's -3 + 1, dealing 11 [-1 Mit] damage.
+Player Unit 17 died.
+AI Unit 3 rolled 1 + 9 [+4 Sup] vs Player Unit 4's -1 + 5 [+4 Sup], dealing 5 [-1 Mit] damage.
+Player Unit 4 died.
+AI Unit 1 rolled -3 + 9 [+4 Sup] vs Player Unit 7's -2 + 5 [+4 Sup], dealing 2 [-1 Mit] damage.
+Player Unit 7 died.
+AI Unit 3 rolled 2 + 9 [+4 Sup] vs Player Unit 15's 3 + 1, dealing 6 [-1 Mit] damage.
+Player Unit 15 died.
+AI Unit 1 rolled 0 + 9 [+4 Sup] vs Player Unit 2's -1 + 5 [+4 Sup], dealing 4 [-1 Mit] damage.
+Player Unit 2 died.
+AI Unit 1 rolled -2 + 9 [+4 Sup] vs Player Unit 12's 1 + 1, dealing 4 [-1 Mit] damage.
+Player Unit 12 died.
+AI Unit 1 rolled -1 + 9 [+4 Sup] vs Player Unit 8's 0 + 5 [+4 Sup], dealing 2 [-1 Mit] damage.
+Player Unit 8 died.
+AI Unit 3 rolled 4 + 9 [+4 Sup] vs Player Unit 9's -2 + 1, dealing 13 [-1 Mit] damage.
+Player Unit 9 died.
+AI Unit 1 rolled 4 + 9 [+4 Sup] vs Player Unit 3's -2 + 1, dealing 13 [-1 Mit] damage.
+Player Unit 3 died.
+AI Unit 1 rolled 1 + 9 [+4 Sup] vs Player Unit 18's -1 + 1, dealing 9 [-1 Mit] damage.
+Player Unit 18 died.
+AI Unit 1 rolled -3 + 9 [+4 Sup] vs Player Unit 16's 0 + 1, dealing 4 [-1 Mit] damage.
+Player Unit 16 died.
+AI Unit 4 rolled -3 + 9 [+4 Sup] vs Player Unit 13's -1 + 1, dealing 5 [-1 Mit] damage.
+Player Unit 13 died.
+AI Unit 1 rolled -3 + 9 [+4 Sup] vs Player Unit 5's -3 + 5 [+4 Sup], dealing 3 [-1 Mit] damage.
+Player Unit 5 died.
+AI Unit 1 rolled 4 + 9 [+4 Sup] vs Player Unit 11's 4 + 1, dealing 7 [-1 Mit] damage.
+Player Unit 11 died.
+AI Unit 4 rolled 2 + 9 [+4 Sup] vs Player Unit 6's 4 + 5 [+4 Sup], dealing 1 [-1 Mit] damage.
+Player Unit 6 died.
+AI Unit 2 rolled -1 + 9 [+4 Sup] vs Player Unit 14's 2 + 1, dealing 4 [-1 Mit] damage.
+Player Unit 14 died.
+AI Unit 1 rolled -3 + 9 [+4 Sup] vs Player Unit 10's 2 + 1, dealing 2 [-1 Mit] damage.
+Player Unit 10 died.
+AI Unit 3 rolled 0 + 9 [+4 Sup] vs Player Unit 20's -1 + 1, dealing 8 [-1 Mit] damage.
+Player Unit 20 died.
+
+
+Player Units Left: 0
+AI Units Left: 5
+
+
+*****RESULTS*****
+AI wins!
+
+[Losses]:
+Player Unit 1 dead.
+Player Unit 19 dead.
+Player Unit 17 dead.
+Player Unit 4 dead.
+Player Unit 7 dead.
+Player Unit 15 dead.
+Player Unit 2 dead.
+Player Unit 12 dead.
+Player Unit 8 dead.
+Player Unit 9 dead.
+Player Unit 3 dead.
+Player Unit 18 dead.
+Player Unit 16 dead.
+Player Unit 13 dead.
+Player Unit 5 dead.
+Player Unit 11 dead.
+Player Unit 6 dead.
+Player Unit 14 dead.
+Player Unit 10 dead.
+Player Unit 20 dead.
+
+[Casualties]
+Player Unit 1: HP -4/1 [Supported 4]
+Player Unit 19: HP -4/1
+Player Unit 17: HP -10/1
+Player Unit 4: HP -4/1 [Supported 4]
+Player Unit 7: HP -1/1 [Supported 4]
+Player Unit 15: HP -5/1
+Player Unit 2: HP -3/1 [Supported 4]
+Player Unit 12: HP -3/1
+Player Unit 8: HP -1/1 [Supported 4]
+Player Unit 9: HP -12/1
+Player Unit 3: HP -12/1
+Player Unit 18: HP -8/1
+Player Unit 16: HP -3/1
+Player Unit 13: HP -4/1
+Player Unit 5: HP -2/1 [Supported 4]
+Player Unit 11: HP -6/1
+Player Unit 6: HP 0/1 [Supported 4]
+Player Unit 14: HP -3/1
+Player Unit 10: HP -1/1
+Player Unit 20: HP -7/1
+AI Unit 1: HP 8/8 [Supported 4]
+AI Unit 2: HP 8/8 [Supported 4]
+AI Unit 3: HP 8/8 [Supported 4]
+AI Unit 4: HP 8/8 [Supported 4]
+AI Unit 5: HP 8/8 [Supported 4]

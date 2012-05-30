@@ -1,0 +1,53 @@
+*****Battle report: 25-11-11Test.txt*****
+
+[Starting Stats]:
+
+[b]Player fleet will flee if ship 1 is reduced to 70 points of hull or less.[/b]
+[color=green]Player ship 1: HP [100] Power [0] Shield Mitigation [0] Shield Strength [0][/color]
+
+[color=red]AI ship 1: HP [100] Power [5] Shield Mitigation [5] Shield Strength [500][/color]
+
+[Combat Details]
+
+[color=red]AI ship 1 rolled -5 + 5 vs Player ship 1's -3 + 0, dealing 3 [-0 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 5 + 5 vs Player ship 1's 5 + 0, dealing 5 [-0 Mit] damage.[/color]
+[color=green]Player ship 1 rolled 6 + 0 vs AI ship 1's -5 + 5, dealing 1 [-5 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 1 + 5 vs Player ship 1's 2 + 0, dealing 4 [-0 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 2 + 5 vs Player ship 1's 4 + 0, dealing 3 [-0 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 0 + 5 vs Player ship 1's -2 + 0, dealing 7 [-0 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 3 + 5 vs Player ship 1's -3 + 0, dealing 11 [-0 Mit] damage.[/color]
+[color=red]AI ship 1 rolled -2 + 5 vs Player ship 1's -1 + 0, dealing 4 [-0 Mit] damage.[/color]
+[color=red]AI ship 1 rolled -3 + 5 vs Player ship 1's -3 + 0, dealing 5 [-0 Mit] damage.[/color]
+[color=red]AI ship 1 rolled -5 + 5 vs Player ship 1's -4 + 0, dealing 4 [-0 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 6 + 5 vs Player ship 1's 5 + 0, dealing 6 [-0 Mit] damage.[/color]
+[color=green]Player ship 1 rolled 1 + 0 vs AI ship 1's -5 + 5, dealing 0 [-5 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 2 + 5 vs Player ship 1's 6 + 0, dealing 1 [-0 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 4 + 5 vs Player ship 1's 4 + 0, dealing 5 [-0 Mit] damage.[/color]
+[color=green]Player ship 1 rolled 4 + 0 vs AI ship 1's -5 + 5, dealing 0 [-5 Mit] damage.[/color]
+[color=green]Player ship 1 rolled 4 + 0 vs AI ship 1's -2 + 5, dealing 0 [-5 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 5 + 5 vs Player ship 1's 5 + 0, dealing 5 [-0 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 6 + 5 vs Player ship 1's 0 + 0, dealing 11 [-0 Mit] damage.[/color]
+[color=red]AI ship 1 rolled -2 + 5 vs Player ship 1's 0 + 0, dealing 3 [-0 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 2 + 5 vs Player ship 1's 6 + 0, dealing 1 [-0 Mit] damage.[/color]
+[color=green]Player ship 1 rolled 6 + 0 vs AI ship 1's -1 + 5, dealing 0 [-5 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 4 + 5 vs Player ship 1's -2 + 0, dealing 11 [-0 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 1 + 5 vs Player ship 1's -5 + 0, dealing 11 [-0 Mit] damage.[/color]
+[color=blue]Player ship 1 been destroyed.[/color]
+[b][color=orange]Player fleet has fled the battle![/color][/b]
+
+
+*****RESULTS*****
+
+Player ships Left: 0
+AI ships Left: 1
+
+AI wins!
+
+
+[Losses]:
+[color=green]Player ship 1 dead.[/color]
+
+[Casualties]
+[color=green]Player ship 1: HP 0/100[/color]
+
+[color=red]AI ship 1: HP 99/100[/color]

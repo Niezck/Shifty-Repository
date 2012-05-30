@@ -1,0 +1,12 @@
+*****Battle report: 11-09-11.txt*****
+
+[Starting Stats]:
+Player ship 1: HP35 Pwr8 Mit12
+Player ship 2: HP35 Pwr8 Mit12
+
+AI Command Ship 1 Command 4
+AI ship 1: HP35 Pwr8 Mit12
+AI ship 2: HP35 Pwr8 Mit12
+
+[Combat Details]
+

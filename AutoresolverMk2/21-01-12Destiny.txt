@@ -1,0 +1,32 @@
+*****Battle report: 21-01-12Destiny.txt*****
+
+[Starting Stats]:
+
+[color=green]Player Ship 1: Power 24, Shield Mitigation 9, Shield Strength 90, HP 127 (Commanded +0 by Player Command Ship 0)[/color]
+
+[color=red]AI Ship 1: Power 7, Shield Mitigation 4, Shield Strength 50, HP 27 (Commanded +0 by AI Command Ship 0)[/color]
+[color=red]AI Ship 2: Power 7, Shield Mitigation 4, Shield Strength 50, HP 25 (Commanded +0 by AI Command Ship 0)[/color]
+
+[Combat Details]:
+[color=green]Player Ship 1 rolled 2 + 24 [+0 Sup] vs AI Ship 1's 3 + 7 [+0 Sup], dealing 12 damage [-4 Shield Mit][/color]!
+[color=green]Player Ship 1 rolled 0 + 24 [+0 Sup] vs AI Ship 2's 2 + 7 [+0 Sup], dealing 11 damage [-4 Shield Mit][/color]!
+[color=green]Player Ship 1 rolled 3 + 24 [+0 Sup] vs AI Ship 1's -1 + 7 [+0 Sup], dealing 17 damage [-4 Shield Mit][/color]!
+[color=blue]AI Ship 1 was destroyed![/color]
+[color=green]Player Ship 1 rolled 6 + 24 [+0 Sup] vs AI Ship 2's -1 + 7 [+0 Sup], dealing 20 damage [-4 Shield Mit][/color]!
+[color=blue]AI Ship 2 was destroyed![/color]
+
+
+*****RESULTS*****
+
+Player wins!
+
+[Losses]:
+
+AI Ship 1 destroyed!
+AI Ship 2 destroyed!
+
+[Finishing Stats]:
+[color=green]Player Ship 1: Power 24, Shield Mitigation 9, Shield Strength 90, HP 127/127[/color]
+
+[color=red]AI Ship 1: Power 7, Shield Mitigation 4, Shield Strength 42, HP -2/27[/color]
+[color=red]AI Ship 2: Power 7, Shield Mitigation 4, Shield Strength 42, HP -6/25[/color]

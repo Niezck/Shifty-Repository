@@ -1,0 +1,15 @@
+
+
+*****RESULTS*****
+
+AI wins!
+
+[Losses]:
+
+
+[Finishing Stats]:
+[color=green]Player Ship 1: Power 2, Shield Mitigation 2, Shield Strength 2, HP 2/2[/color]
+[color=green]Player Ship 2: Power 2, Shield Mitigation 2, Shield Strength 2, HP 2/2[/color]
+
+[color=red]AI Ship 1: Power 2, Shield Mitigation 2, Shield Strength 2, HP 2/2[/color]
+[color=red]AI Ship 2: Power 2, Shield Mitigation 2, Shield Strength 2, HP 2/2[/color]

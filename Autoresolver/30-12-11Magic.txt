@@ -1,0 +1,53 @@
+*****Battle report: 30-12-11Magic.txt*****
+
+[Starting Stats]:
+
+[b]Player fleet will flee if ship 1 is reduced to 4 points of hull or less.[/b]
+[color=green]Player ship 1: HP [7] Power [2] Shield Mitigation [1] Shield Strength [8][/color]
+
+[color=red]AI Command Ship 1 Command 2, Power 2, HP 1[/color]
+[color=red]AI ship 1: HP [12] Power [2] Shield Mitigation [1] Shield Strength [8][/color]
+[color=red]AI ship 2: HP [10] Power [2] Shield Mitigation [1] Shield Strength [8][/color]
+[color=red]AI ship 3: HP [8] Power [2] Shield Mitigation [1] Shield Strength [8][/color]
+[color=red]AI ship 4: HP [14] Power [2] Shield Mitigation [1] Shield Strength [8][/color]
+[color=red]AI ship 5: HP [9] Power [2] Shield Mitigation [1] Shield Strength [8][/color]
+[color=red]AI ship 6: HP [12] Power [2] Shield Mitigation [1] Shield Strength [8][/color]
+[color=red]AI ship 7: HP [5] Power [2] Shield Mitigation [1] Shield Strength [8][/color]
+[color=red]AI ship 8: HP [5] Power [2] Shield Mitigation [1] Shield Strength [8][/color]
+
+[Combat Details]
+
+[color=green]Player ship 1 rolled 3 + 2 vs AI ship 1's -3 + 2, dealing 5 [-1 Mit] damage.[/color]
+[color=green]Player ship 1 rolled 6 + 2 vs AI ship 3's -4 + 2, dealing 9 [-1 Mit] damage.[/color]
+[color=red]AI ship 3's shields have collapsed![/color]
+[color=blue]AI ship 3 been destroyed.[/color]
+[color=red]AI ship 1 rolled 5 + 2 vs Player ship 1's -3 + 2, dealing 7 [-1 Mit] damage.[/color]
+[color=green]Player ship 1's shields have collapsed![/color]
+[color=blue]Player ship 1 been destroyed.[/color]
+
+
+*****RESULTS*****
+
+Player ships Left: 0
+AI ships Left: 7
+
+AI wins!
+
+AI Command Ship 1 gained 0XP
+
+[Losses]:
+[color=green]Player ship 1 dead.[/color]
+[color=red]AI ship 3 dead.[/color]
+
+[Casualties]
+[color=green]Player ship 1: HP 0/7[/color]
+
+[b][color=red]AI Command Ship 1: HP 1[/color][/b]
+[color=red]AI ship 1: HP 7/12[/color]
+[color=red]AI ship 2: HP 10/10[/color]
+[color=red]AI ship 4: HP 14/14[/color]
+[color=red]AI ship 5: HP 9/9[/color]
+[color=red]AI ship 6: HP 12/12[/color] [Supported 1 by Command Ship 1]
+[color=red]AI ship 7: HP 5/5[/color] [Supported 1 by Command Ship 1]
+[color=red]AI ship 8: HP 5/5[/color]
+[color=red]AI ship 3: HP -1/8[/color]

@@ -1,0 +1,14 @@
+*****Battle report: awdnawdjn.txt*****
+
+[Starting Stats]:
+
+[b]Player fleet receives a power bonus of 1[/b]
+
+[b]Player fleet will flee if  is destroyed.[/b]
+[b][color=green]Player Command Ship 1: Command Rating 1, Power 2, HP 8[/b][/color]
+[color=green]: Power 1, Shield Mitigation 0, Shield Strength 0, HP 0 (Commanded +1 by Player Command Ship 1)[/color]
+
+[color=red]: Power 0, Shield Mitigation 0, Shield Strength 0, HP 0 (Commanded +0 by AI Command Ship 0)[/color]
+[color=red]: Power 0, Shield Mitigation 0, Shield Strength 0, HP 0 (Commanded +0 by AI Command Ship 0)[/color]
+
+[Combat Details]:

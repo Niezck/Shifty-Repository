@@ -1,0 +1,22 @@
+*****Battle report: 12-09-11-3.txt*****
+
+[Starting Stats]:
+Player ship 1: HP [35] Power [12] Shield Mitigation [6] Shield Strength [30
+Player ship 2: HP [35] Power [12] Shield Mitigation [6] Shield Strength [30
+Player ship 3: HP [35] Power [12] Shield Mitigation [6] Shield Strength [30
+Player ship 4: HP [35] Power [12] Shield Mitigation [6] Shield Strength [30
+
+AI Command Ship 1 Command 6, Power 12]
+AI ship 1: HP [10] Power2 Shield Mitigation [2] Shield Strength [4]
+AI ship 2: HP [10] Power2 Shield Mitigation [2] Shield Strength [4]
+AI ship 3: HP [10] Power2 Shield Mitigation [2] Shield Strength [4]
+AI ship 4: HP [10] Power2 Shield Mitigation [2] Shield Strength [4]
+AI ship 5: HP [10] Power2 Shield Mitigation [2] Shield Strength [4]
+AI ship 6: HP [10] Power2 Shield Mitigation [2] Shield Strength [4]
+AI ship 7: HP [10] Power2 Shield Mitigation [2] Shield Strength [4]
+AI ship 8: HP [10] Power2 Shield Mitigation [2] Shield Strength [4]
+AI ship 9: HP [10] Power2 Shield Mitigation [2] Shield Strength [4]
+AI ship 10: HP [10] Power2 Shield Mitigation [2] Shield Strength [4]
+
+[Combat Details]
+

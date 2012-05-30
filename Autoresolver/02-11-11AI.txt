@@ -1,0 +1,6 @@
+*****Battle report: 02-11-11AI.txt*****
+
+[Starting Stats]:
+
+[color=green]Player ship 1: HP [6] Power [2] Shield Mitigation [2] Shield Strength [4][/color]
+

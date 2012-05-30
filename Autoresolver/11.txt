@@ -1,0 +1,42 @@
+*****Battle report: 11.txt*****
+
+[Starting Stats]:
+Player General: Support 1
+Player Unit 1: HP1 Pwr1 Mit1
+Player Unit 2: HP1 Pwr1 Mit1
+
+AI General: Support 1
+AI Unit 1: HP1 Pwr1 Mit1
+AI Unit 2: HP1 Pwr1 Mit1
+
+[Combat Details]
+
+Player Unit 1 rolled 4 + 1 vs AI Unit 1's -2 + 1, dealing 5 [-1 Mit] damage.
+AI Unit 1 died.
+AI Unit 2 rolled 0 + 1 vs Player Unit 1's -1 + 1, dealing 0 [-1 Mit] damage.
+AI Unit 2 rolled 2 + 1 vs Player Unit 1's -2 + 1, dealing 3 [-1 Mit] damage.
+Player Unit 1 died.
+Player Unit 2 rolled -2 + 1 vs AI Unit 2's -3 + 1, dealing 0 [-1 Mit] damage.
+Player Unit 2 rolled 4 + 1 vs AI Unit 2's 0 + 1, dealing 3 [-1 Mit] damage.
+AI Unit 2 died.
+
+
+*****RESULTS*****
+
+Player Units Left: 1
+AI Units Left: 0
+
+Player wins!
+Player General gained 2XP
+AI General gained 1XP
+
+[Losses]:
+Player Unit 1 dead.
+AI Unit 1 dead.
+AI Unit 2 dead.
+
+[Casualties]
+Player Unit 1: HP -2/1
+Player Unit 2: HP 1/1
+AI Unit 1: HP -4/1
+AI Unit 2: HP -2/1

@@ -1,0 +1,41 @@
+*****Battle report: 11-12-11Nye.txt*****
+
+[Starting Stats]:
+
+[b]Player fleet will flee if ship 1 is reduced to 8 points of hull or less.[/b]
+[color=green]Player ship 1: HP [17] Power [2] Shield Mitigation [2] Shield Strength [4][/color]
+[color=green]Player ship 2: HP [7] Power [2] Shield Mitigation [2] Shield Strength [4][/color]
+[color=green]Player ship 3: HP [5] Power [2] Shield Mitigation [2] Shield Strength [4][/color]
+
+[color=red]AI ship 1: HP [10] Power [2] Shield Mitigation [1] Shield Strength [8][/color]
+[color=red]AI ship 2: HP [6] Power [2] Shield Mitigation [1] Shield Strength [8][/color]
+
+[Combat Details]
+
+[color=red]AI ship 1 rolled 5 + 2 vs Player ship 1's -3 + 2, dealing 6 [-2 Mit] damage.[/color]
+[color=green]Player ship 2 rolled 2 + 2 vs AI ship 1's -4 + 2, dealing 5 [-1 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 1 + 2 vs Player ship 2's -1 + 2, dealing 0 [-2 Mit] damage.[/color]
+[color=green]Player ship 1 rolled -1 + 2 vs AI ship 1's -2 + 2, dealing 0 [-1 Mit] damage.[/color]
+[color=red]AI ship 1 rolled -1 + 2 vs Player ship 1's -2 + 2, dealing 0 [-2 Mit] damage.[/color]
+[color=green]Player ship 1's shields have collapsed![/color]
+[color=red]AI ship 1 rolled 4 + 2 vs Player ship 1's -1 + 2, dealing 5 [-0 Mit] damage.[/color]
+[b][color=orange]Player fleet has fled the battle![/color][/b]
+
+
+*****RESULTS*****
+
+Player ships Left: 3
+AI ships Left: 2
+
+AI wins!
+
+
+[Losses]:
+
+[Casualties]
+[color=green]Player ship 1: HP 6/17[/color]
+[color=green]Player ship 2: HP 7/7[/color]
+[color=green]Player ship 3: HP 5/5[/color]
+
+[color=red]AI ship 1: HP 5/10[/color]
+[color=red]AI ship 2: HP 6/6[/color]

@@ -1,0 +1,75 @@
+*****Battle report: 8.txt*****
+
+[Starting Stats]:
+Player Unit 1: HP1 Pwr8 Mit10
+Player Unit 2: HP1 Pwr8 Mit10
+AI Unit 1: HP1 Pwr1 Mit1
+AI Unit 2: HP1 Pwr1 Mit1
+AI Unit 3: HP1 Pwr1 Mit1
+AI Unit 4: HP1 Pwr1 Mit1
+AI Unit 5: HP1 Pwr1 Mit1
+AI Unit 6: HP1 Pwr1 Mit1
+AI Unit 7: HP1 Pwr1 Mit1
+AI Unit 8: HP1 Pwr1 Mit1
+AI Unit 9: HP1 Pwr1 Mit1
+AI Unit 10: HP1 Pwr1 Mit1
+
+[Combat Details]
+
+Player Unit 1 rolled -3 + 8 vs AI Unit 3's 0 + 1, dealing 3 [-1 Mit] damage.
+AI Unit 3 died.
+Player Unit 1 rolled -2 + 8 vs AI Unit 4's 0 + 1, dealing 4 [-1 Mit] damage.
+AI Unit 4 died.
+Player Unit 1 rolled 2 + 8 vs AI Unit 7's 2 + 1, dealing 6 [-1 Mit] damage.
+AI Unit 7 died.
+Player Unit 1 rolled -3 + 8 vs AI Unit 8's 0 + 1, dealing 3 [-1 Mit] damage.
+AI Unit 8 died.
+Player Unit 1 rolled 4 + 8 vs AI Unit 1's 2 + 1, dealing 8 [-1 Mit] damage.
+AI Unit 1 died.
+Player Unit 1 rolled -3 + 8 vs AI Unit 6's 1 + 1, dealing 2 [-1 Mit] damage.
+AI Unit 6 died.
+Player Unit 1 rolled -3 + 8 vs AI Unit 5's 3 + 1, dealing 0 [-1 Mit] damage.
+Player Unit 1 rolled 2 + 8 vs AI Unit 2's 0 + 1, dealing 8 [-1 Mit] damage.
+AI Unit 2 died.
+Player Unit 1 rolled 2 + 8 vs AI Unit 9's 4 + 1, dealing 4 [-1 Mit] damage.
+AI Unit 9 died.
+Player Unit 1 rolled 3 + 8 vs AI Unit 5's -2 + 1, dealing 11 [-1 Mit] damage.
+AI Unit 5 died.
+Player Unit 1 rolled 4 + 8 vs AI Unit 10's -1 + 1, dealing 11 [-1 Mit] damage.
+AI Unit 10 died.
+
+
+*****RESULTS*****
+
+Player Units Left: 2
+AI Units Left: 0
+
+Player wins!
+
+[Losses]:
+Player Unit 1 dead.
+Player Unit 2 dead.
+AI Unit 3 dead.
+AI Unit 4 dead.
+AI Unit 7 dead.
+AI Unit 8 dead.
+AI Unit 1 dead.
+AI Unit 6 dead.
+AI Unit 2 dead.
+AI Unit 9 dead.
+AI Unit 5 dead.
+AI Unit 10 dead.
+
+[Casualties]
+Player Unit 1: HP -3/1
+Player Unit 2: HP -10/1
+AI Unit 1: HP -7/1
+AI Unit 2: HP -7/1
+AI Unit 3: HP -2/1
+AI Unit 4: HP -3/1
+AI Unit 5: HP -10/1
+AI Unit 6: HP -1/1
+AI Unit 7: HP -5/1
+AI Unit 8: HP -2/1
+AI Unit 9: HP -3/1
+AI Unit 10: HP -10/1

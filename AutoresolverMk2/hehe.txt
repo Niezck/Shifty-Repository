@@ -1,0 +1,48 @@
+*****Battle report: hehe.txt*****
+
+[Starting Stats]:
+
+[b]Player fleet receives a power bonus of 1[/b]
+
+[b]Player fleet receives a temporary power bonus of 1 for 1 rounds.[/b]
+[b]Player fleet will flee if Blazing Dark is destroyed.[/b]
+[b][color=green]Gantrithor: Command Rating 1, Power 1, HP 1[/b][/color]
+[color=green]Blazing Dark: Power 3, Temp Power 1 for 1 exchanges, Shield Mitigation 2, Shield Strength 4, HP 99 (Commanded +1 by Player Command Ship 1)[/color]
+
+[color=red]AI Ship 1: Power 3, Temp Power 1 for 1 exchanges, Shield Mitigation 1, Shield Strength 8, HP 4 (Commanded +0 by AI Command Ship 0)[/color]
+[color=red]AI Ship 2: Power 3, Temp Power 1 for 1 exchanges, Shield Mitigation 1, Shield Strength 8, HP 5 (Commanded +0 by AI Command Ship 0)[/color]
+
+[Combat Details]:
+[color=red]AI Ship 1 rolled 6 + 3 [+0 Sup] vs Blazing Dark's -2 + 4 [+1 Sup], dealing 5 damage! [-2 Shield Mit][/color]
+Player fleet has lost its temporary power bonus!
+Blazing Dark has lost its temporary power bonus!
+AI Ship 1 has lost its temporary power bonus!
+[color=red]AI Ship 2 rolled 5 + 3 [+0 Sup] vs Blazing Dark's 5 + 2 [+1 Sup], dealing 0 damage! [-2 Shield Mit][/color]
+[color=green]Blazing Dark's shields have collapsed![/color]
+AI Ship 2 has lost its temporary power bonus!
+[color=green]Blazing Dark rolled 5 + 2 [+1 Sup] vs AI Ship 2's -5 + 2 [+0 Sup], dealing 9 damage [-1 Shield Mit][/color]!
+AI Ship 2's shield strength has been dropped by 2 for 1 exchanges!
+[color=blue]AI Ship 2 was destroyed![/color]
+[color=red]AI Ship 1 rolled 0 + 2 [+0 Sup] vs Blazing Dark's -3 + 2 [+1 Sup], dealing 3 damage! [-0 Shield Mit][/color]
+[color=red]AI Ship 1 rolled 6 + 2 [+0 Sup] vs Blazing Dark's 5 + 2 [+1 Sup], dealing 1 damage! [-0 Shield Mit][/color]
+[color=green]Blazing Dark rolled 3 + 2 [+1 Sup] vs AI Ship 1's -2 + 2 [+0 Sup], dealing 4 damage [-1 Shield Mit][/color]!
+AI Ship 1's shield strength has been dropped by 2 for 1 exchanges!
+[color=blue]AI Ship 1 was destroyed![/color]
+
+
+*****RESULTS*****
+
+Player wins!
+Gantrithor gained 2XP!
+
+[Losses]:
+
+AI Ship 1 destroyed!
+AI Ship 2 destroyed!
+
+[Finishing Stats]:
+[b][color=green]Gantrithor1: Command Rating 1, Power 1, HP 1/1[/b][/color]
+[color=green]Blazing Dark: Power 1, Shield Mitigation 0, Shield Strength 0, HP 90/99[/color]
+
+[color=red]AI Ship 1: Power 2, Shield Mitigation 1, Shield Strength 5, HP 0/4[/color]
+[color=red]AI Ship 2: Power 2, Shield Mitigation 1, Shield Strength 5, HP -4/5[/color]

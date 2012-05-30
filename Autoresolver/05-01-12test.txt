@@ -1,0 +1,30 @@
+*****Battle report: 05-01-12test.txt*****
+
+[Starting Stats]:
+
+[color=green]Player ship 1: HP [1] Power [1] Shield Mitigation [1] Shield Strength [1][/color]
+
+[color=red]AI ship 1: HP [1] Power [1] Shield Mitigation [1] Shield Strength [1][/color]
+
+[Combat Details]
+
+[color=red]AI ship 1 rolled 0 + 1 vs Player ship 1's -5 + 1, dealing 4 [-1 Mit] damage.[/color]
+[color=green]Player ship 1's shields have collapsed![/color]
+[color=blue]Player ship 1 been destroyed.[/color]
+
+
+*****RESULTS*****
+
+Player ships Left: 0
+AI ships Left: 1
+
+AI wins!
+
+
+[Losses]:
+[color=green]Player ship 1 dead.[/color]
+
+[Casualties]
+[color=green]Player ship 1: HP -3/1[/color]
+
+[color=red]AI ship 1: HP 1/1[/color]

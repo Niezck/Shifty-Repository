@@ -1,0 +1,35 @@
+*****Battle report: 25-11-11Test4.txt*****
+
+[Starting Stats]:
+
+[b]Player fleet will flee if ship 1 is reduced to 70 points of hull or less.[/b]
+[color=green]Player ship 1: HP [100] Power [0] Shield Mitigation [0] Shield Strength [0][/color]
+
+[color=red]AI ship 1: HP [100] Power [5] Shield Mitigation [5] Shield Strength [500][/color]
+
+[Combat Details]
+
+[color=red]AI ship 1 rolled -1 + 5 vs Player ship 1's -1 + 0, dealing 5 [-0 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 1 + 5 vs Player ship 1's -2 + 0, dealing 8 [-0 Mit] damage.[/color]
+[color=red]AI ship 1 rolled -1 + 5 vs Player ship 1's -5 + 0, dealing 9 [-0 Mit] damage.[/color]
+[color=green]Player ship 1 rolled 2 + 0 vs AI ship 1's -4 + 5, dealing 0 [-5 Mit] damage.[/color]
+[color=green]Player ship 1 rolled 6 + 0 vs AI ship 1's -5 + 5, dealing 1 [-5 Mit] damage.[/color]
+[color=red]AI ship 1 rolled -3 + 5 vs Player ship 1's -3 + 0, dealing 5 [-0 Mit] damage.[/color]
+[color=green]Player ship 1 rolled 3 + 0 vs AI ship 1's -4 + 5, dealing 0 [-5 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 4 + 5 vs Player ship 1's -3 + 0, dealing 12 [-0 Mit] damage.[/color]
+[b][color=orange]Player fleet has fled the battle![/color][/b]
+
+
+*****RESULTS*****
+
+Player ships Left: 1
+AI ships Left: 1
+
+Player wins!
+
+[Losses]:
+
+[Casualties]
+[color=green]Player ship 1: HP 61/100[/color]
+
+[color=red]AI ship 1: HP 99/100[/color]

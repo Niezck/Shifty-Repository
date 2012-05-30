@@ -1,0 +1,8 @@
+*****Battle report: Tester.txt.txt.*****
+
+[Starting Stats]:
+
+[b][color=green]Player Command Ship 1: Command Rating 1, Power 1, HP 1[/b][/color]
+[color=green]Player Ship 1: Power 1, Shield Mitigation 1, Shield Strength 1, HP 1[/color]
+
+[color=red]AI Ship 1: Power 1, Shield Mitigation 1, Shield Strength 1, HP 1[/color]

@@ -1,0 +1,73 @@
+*****Battle report: 5-11-11Test4.txt*****
+
+[Starting Stats]:
+
+[color=green]Player Command Ship 1 Command 3, Power 0, HP 1[/color]
+[color=green]Player ship 1: HP [3] Power [0] Shield Mitigation [0] Shield Strength [0][/color]
+[color=green]Player ship 2: HP [3] Power [0] Shield Mitigation [0] Shield Strength [0][/color]
+[color=green]Player ship 3: HP [3] Power [0] Shield Mitigation [0] Shield Strength [0][/color]
+[color=green]Player ship 4: HP [2] Power [0] Shield Mitigation [0] Shield Strength [0][/color]
+[color=green]Player ship 5: HP [2] Power [0] Shield Mitigation [0] Shield Strength [0][/color]
+[color=green]Player ship 6: HP [9] Power [2] Shield Mitigation [2] Shield Strength [4][/color]
+
+[color=red]AI ship 1: HP [10] Power [2] Shield Mitigation [2] Shield Strength [4][/color]
+[color=red]AI ship 2: HP [6] Power [2] Shield Mitigation [2] Shield Strength [4][/color]
+
+[Combat Details]
+
+[color=red]AI ship 1 rolled 4 + 2 vs Player ship 3's -5 + 0, dealing 11 [-0 Mit] damage.[/color]
+[color=blue]Player ship 3 been destroyed.[/color]
+[color=red]AI ship 1 rolled 5 + 2 vs Player ship 1's 0 + 0, dealing 7 [-0 Mit] damage.[/color]
+[color=blue]Player ship 1 been destroyed.[/color]
+[color=green]Player ship 4 rolled 0 + 2 [+2 Sup] vs AI ship 1's -1 + 2, dealing 0 [-2 Mit] damage.[/color]
+[color=green]Player ship 4 rolled -1 + 2 [+2 Sup] vs AI ship 1's -4 + 2, dealing 1 [-2 Mit] damage.[/color]
+[color=red]AI ship 1's shields have collapsed![/color]
+[color=red]AI ship 1 rolled 0 + 2 vs Player ship 5's -1 + 2 [+2 Sup], dealing 1 [-0 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 4 + 2 vs Player ship 2's 5 + 0, dealing 1 [-0 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 2 + 2 vs Player ship 4's -3 + 2 [+2 Sup], dealing 5 [-0 Mit] damage.[/color]
+[color=blue]Player ship 4 been destroyed.[/color]
+[color=red]AI ship 1 rolled 0 + 2 vs Player ship 2's -4 + 0, dealing 6 [-0 Mit] damage.[/color]
+[color=blue]Player ship 2 been destroyed.[/color]
+[color=red]AI ship 1 rolled 5 + 2 vs Player ship 5's 0 + 2 [+2 Sup], dealing 5 [-0 Mit] damage.[/color]
+[color=blue]Player ship 5 been destroyed.[/color]
+[color=red]AI ship 1 rolled 1 + 2 vs Player ship 6's -5 + 4 [+2 Sup], dealing 2 [-2 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 4 + 2 vs Player ship 6's -1 + 4 [+2 Sup], dealing 1 [-2 Mit] damage.[/color]
+[color=green]Player ship 6 rolled 3 + 4 [+2 Sup] vs AI ship 1's 0 + 2, dealing 5 [-0 Mit] damage.[/color]
+[color=green]Player ship 6 rolled 6 + 4 [+2 Sup] vs AI ship 1's -5 + 2, dealing 13 [-0 Mit] damage.[/color]
+[color=blue]AI ship 1 been destroyed.[/color]
+[color=red]AI ship 2 rolled 2 + 2 vs Player ship 6's -3 + 4 [+2 Sup], dealing 1 [-2 Mit] damage.[/color]
+[color=red]AI ship 2 rolled 1 + 2 vs Player ship 6's -4 + 4 [+2 Sup], dealing 1 [-2 Mit] damage.[/color]
+[color=green]Player ship 6 rolled 5 + 4 [+2 Sup] vs AI ship 2's 2 + 2, dealing 3 [-2 Mit] damage.[/color]
+[color=green]Player ship 6 rolled 6 + 4 [+2 Sup] vs AI ship 2's 1 + 2, dealing 5 [-2 Mit] damage.[/color]
+[color=red]AI ship 2's shields have collapsed![/color]
+[color=blue]AI ship 2 been destroyed.[/color]
+
+
+*****RESULTS*****
+
+Player ships Left: 1
+AI ships Left: 0
+
+Player wins!
+Player Command Ship 1 gained 2XP
+
+[Losses]:
+[color=green]Player ship 3 dead.[/color]
+[color=green]Player ship 1 dead.[/color]
+[color=green]Player ship 4 dead.[/color]
+[color=green]Player ship 2 dead.[/color]
+[color=green]Player ship 5 dead.[/color]
+[color=red]AI ship 1 dead.[/color]
+[color=red]AI ship 2 dead.[/color]
+
+[Casualties]
+[b][color=green]Player Command Ship 1: HP 1[/color][/b]
+[color=green]Player ship 6: HP 4/9[/color] [Supported 2 by Command Ship 1]
+[color=green]Player ship 3: HP -8/3[/color]
+[color=green]Player ship 1: HP -4/3[/color]
+[color=green]Player ship 4: HP -3/2[/color] [Supported 2 by Command Ship 1]
+[color=green]Player ship 2: HP -4/3[/color]
+[color=green]Player ship 5: HP -4/2[/color] [Supported 2 by Command Ship 1]
+
+[color=red]AI ship 1: HP -9/10[/color]
+[color=red]AI ship 2: HP -2/6[/color]

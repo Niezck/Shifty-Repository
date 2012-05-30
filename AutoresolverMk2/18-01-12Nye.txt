@@ -1,0 +1,36 @@
+*****Battle report: 18-01-12Nye.txt*****
+
+[Starting Stats]:
+
+[b][color=green]Player Command Ship 1: Command Rating 3, Power 0, HP 1[/b][/color]
+[color=green]Player Ship 1: Power 4, Shield Mitigation 4, Shield Strength 24, HP 19 (Commanded +2 by Player Command Ship 1)[/color]
+
+[color=red]AI Ship 1: Power 2, Shield Mitigation 1, Shield Strength 8, HP 5 (Commanded +0 by AI Command Ship 0)[/color]
+[color=red]AI Ship 2: Power 2, Shield Mitigation 1, Shield Strength 8, HP 4 (Commanded +0 by AI Command Ship 0)[/color]
+
+[Combat Details]:
+[color=green]Player Ship 1 rolled 0 + 6 [+2 Sup] vs AI Ship 2's -5 + 2 [+0 Sup], dealing 8 damage [-1 Shield Mit][/color]!
+[color=blue]AI Ship 2 was destroyed![/color]
+[color=green]Player Ship 1 rolled 1 + 6 [+2 Sup] vs AI Ship 1's 1 + 2 [+0 Sup], dealing 3 damage [-1 Shield Mit][/color]!
+[color=red]AI Ship 1 rolled 6 + 2 [+0 Sup] vs Player Ship 1's 0 + 6 [+2 Sup], dealing 0 damage! [-4 Shield Mit][/color]
+[color=green]Player Ship 1 rolled 1 + 6 [+2 Sup] vs AI Ship 1's 3 + 2 [+0 Sup], dealing 1 damage [-1 Shield Mit][/color]!
+[color=green]Player Ship 1 rolled 3 + 6 [+2 Sup] vs AI Ship 1's 1 + 2 [+0 Sup], dealing 5 damage [-1 Shield Mit][/color]!
+[color=blue]AI Ship 1 was destroyed![/color]
+
+
+*****RESULTS*****
+
+Player wins!
+Player Command Ship 1 gained 2XP!
+
+[Losses]:
+
+AI Ship 1 destroyed!
+AI Ship 2 destroyed!
+
+[Finishing Stats]:
+[b][color=green]Player Command Ship 1: Command Rating 3, Power 0, HP 1/1[/b][/color]
+[color=green]Player Ship 1: Power 4, Shield Mitigation 4, Shield Strength 22, HP 19/19[/color]
+
+[color=red]AI Ship 1: Power 2, Shield Mitigation 1, Shield Strength 5, HP -4/5[/color]
+[color=red]AI Ship 2: Power 2, Shield Mitigation 1, Shield Strength 7, HP -4/4[/color]

@@ -1,0 +1,55 @@
+# Project: Firefly
+# Compiler: Default GCC compiler
+# Compiler Type: MingW 3
+# Makefile created by wxDev-C++ wxDev-C++ IDE 7.4.1.13 on 27/04/12 20:45
+
+WXLIBNAME = wxmsw28u
+CPP       = g++.exe
+CC        = gcc.exe
+WINDRES   = "windres.exe"
+OBJ       = Objects/MingW/Clock.o Objects/MingW/Main.o Objects/MingW/wxStuff.o Objects/MingW/Object.o Objects/MingW/ShipDealer.o Objects/MingW/CaptainGen.o Objects/MingW/MainMenu.o Objects/MingW/Firefly_private.res
+LINKOBJ   = "Objects/MingW/Clock.o" "Objects/MingW/Main.o" "Objects/MingW/wxStuff.o" "Objects/MingW/Object.o" "Objects/MingW/ShipDealer.o" "Objects/MingW/CaptainGen.o" "Objects/MingW/MainMenu.o" Objects/MingW/Firefly_private.res
+LIBS      = -L"D:/Applications/Dev-Cpp/Lib" -mwindows -l$(WXLIBNAME) -l$(WXLIBNAME)_gl -lwxtiff -lwxjpeg -lwxpng -lwxzlib -lwxregexu -lwxexpat -lkernel32 -luser32 -lgdi32 -lcomdlg32 -lwinspool -lwinmm -lshell32 -lcomctl32 -lole32 -loleaut32 -luuid -lrpcrt4 -ladvapi32 -lwsock32 -lodbc32 -lopengl32  
+INCS      = -I"D:/Applications/Dev-Cpp/Include"
+CXXINCS   = -I"D:/Applications/Dev-Cpp/lib/gcc/mingw32/3.4.5/include" -I"D:/Applications/Dev-Cpp/include/c++/3.4.5/backward" -I"D:/Applications/Dev-Cpp/include/c++/3.4.5/mingw32" -I"D:/Applications/Dev-Cpp/include/c++/3.4.5" -I"D:/Applications/Dev-Cpp/include" -I"D:/Applications/Dev-Cpp/" -I"D:/Applications/Dev-Cpp/include/common/wx/msw" -I"D:/Applications/Dev-Cpp/include/common/wx/generic" -I"D:/Applications/Dev-Cpp/include/common/wx/html" -I"D:/Applications/Dev-Cpp/include/common/wx/protocol" -I"D:/Applications/Dev-Cpp/include/common/wx/stc" -I"D:/Applications/Dev-Cpp/include/common/wx/xml" -I"D:/Applications/Dev-Cpp/include/common/wx/xrc" -I"D:/Applications/Dev-Cpp/include/common/wx" -I"D:/Applications/Dev-Cpp/include/common"
+RCINCS    = --include-dir "D:/APPLIC~1/Dev-Cpp/include/common"
+BIN       = Output/MingW/Firefly.exe
+DEFINES   = -D__WXMSW__ -D__GNUWIN32__ -D_UNICODE
+CXXFLAGS  = $(CXXINCS) $(DEFINES)   -fexpensive-optimizations -O3
+CFLAGS    = $(INCS) $(DEFINES)   -fexpensive-optimizations -O3
+GPROF     = gprof.exe
+RM        = rm -f
+LINK      = g++.exe
+
+.PHONY: all all-before all-after clean clean-custom
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	$(RM) $(LINKOBJ) "$(BIN)"
+
+$(BIN): $(OBJ)
+	$(LINK) $(LINKOBJ) -o "$(BIN)" $(LIBS) 
+
+Objects/MingW/Clock.o: $(GLOBALDEPS) Clock.cpp Clock.h Includes.h wxStuff.h Includes.h Object.h Includes.h Clock.h
+	$(CPP) -c Clock.cpp -o Objects/MingW/Clock.o $(CXXFLAGS)
+
+Objects/MingW/Main.o: $(GLOBALDEPS) Main.cpp main.h wxStuff.h Includes.h Object.h Includes.h Clock.h Includes.h
+	$(CPP) -c Main.cpp -o Objects/MingW/Main.o $(CXXFLAGS)
+
+Objects/MingW/wxStuff.o: $(GLOBALDEPS) wxStuff.cpp wxStuff.h Includes.h Object.h Includes.h Clock.h Includes.h
+	$(CPP) -c wxStuff.cpp -o Objects/MingW/wxStuff.o $(CXXFLAGS)
+
+Objects/MingW/Object.o: $(GLOBALDEPS) Object.cpp Includes.h Object.h Includes.h
+	$(CPP) -c Object.cpp -o Objects/MingW/Object.o $(CXXFLAGS)
+
+Objects/MingW/ShipDealer.o: $(GLOBALDEPS) ShipDealer.cpp Includes.h wxStuff.h Includes.h Object.h Includes.h Clock.h Includes.h
+	$(CPP) -c ShipDealer.cpp -o Objects/MingW/ShipDealer.o $(CXXFLAGS)
+
+Objects/MingW/CaptainGen.o: $(GLOBALDEPS) CaptainGen.cpp Includes.h wxStuff.h Includes.h Object.h Includes.h Clock.h Includes.h
+	$(CPP) -c CaptainGen.cpp -o Objects/MingW/CaptainGen.o $(CXXFLAGS)
+
+Objects/MingW/MainMenu.o: $(GLOBALDEPS) MainMenu.cpp wxStuff.h Includes.h Object.h Includes.h Clock.h Includes.h Includes.h
+	$(CPP) -c MainMenu.cpp -o Objects/MingW/MainMenu.o $(CXXFLAGS)
+
+Objects/MingW/Firefly_private.res: Objects/MingW/Firefly_private.rc 
+	$(WINDRES) --input-format=rc -o Objects/MingW/Firefly_private.res $(RCINCS) Objects/MingW/FIREFL~1.RC -O coff

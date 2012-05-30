@@ -1,0 +1,51 @@
+*****Battle report: 5-11-11Test.txt*****
+
+[Starting Stats]:
+
+[color=green]Player Command Ship 1 Command 3, Power 0, HP 1[/color]
+[color=green]Player ship 1: HP [2] Power [0] Shield Mitigation [0] Shield Strength [0][/color]
+[color=green]Player ship 2: HP [2] Power [0] Shield Mitigation [0] Shield Strength [0][/color]
+[color=green]Player ship 3: HP [3] Power [0] Shield Mitigation [0] Shield Strength [0][/color]
+
+[color=red]AI ship 1: HP [9] Power [2] Shield Mitigation [2] Shield Strength [4][/color]
+[color=red]AI ship 2: HP [7] Power [2] Shield Mitigation [2] Shield Strength [4][/color]
+[color=red]AI ship 3: HP [3] Power [2] Shield Mitigation [2] Shield Strength [4][/color]
+
+[Combat Details]
+
+[color=green]Player ship 2 rolled 6 + 2 [+2 Sup] vs AI ship 1's 2 + 2, dealing 2 [-2 Mit] damage.[/color]
+[color=green]Player ship 2 rolled 2 + 2 [+2 Sup] vs AI ship 1's -4 + 2, dealing 4 [-2 Mit] damage.[/color]
+[color=red]AI ship 1's shields have collapsed![/color]
+[color=green]Player ship 1 rolled 2 + 2 [+2 Sup] vs AI ship 2's -1 + 2, dealing 1 [-2 Mit] damage.[/color]
+[color=red]AI ship 1 rolled -1 + 2 vs Player ship 1's -4 + 2 [+2 Sup], dealing 3 [-0 Mit] damage.[/color]
+[color=blue]Player ship 1 been destroyed.[/color]
+[color=red]AI ship 2 rolled -1 + 2 vs Player ship 2's -3 + 2 [+2 Sup], dealing 2 [-0 Mit] damage.[/color]
+[color=blue]Player ship 2 been destroyed.[/color]
+[color=red]AI ship 2 rolled 4 + 2 vs Player ship 3's -4 + 2 [+2 Sup], dealing 8 [-0 Mit] damage.[/color]
+[color=blue]Player ship 3 been destroyed.[/color]
+[color=green][b]Due to defeat, Player Command Ship 1 has taken 1 damage[/color][/b]
+
+
+*****RESULTS*****
+
+Player ships Left: 0
+AI ships Left: 3
+
+AI wins!
+
+Player Command Ship 1 gained 0XP
+
+[Losses]:
+[color=green]Player ship 1 dead.[/color]
+[color=green]Player ship 2 dead.[/color]
+[color=green]Player ship 3 dead.[/color]
+
+[Casualties]
+[b][color=green]Player Command Ship 1: HP 0[/color][/b]
+[color=green]Player ship 1: HP -1/2[/color] [Supported 2 by Command Ship 1]
+[color=green]Player ship 2: HP 0/2[/color] [Supported 2 by Command Ship 1]
+[color=green]Player ship 3: HP -5/3[/color] [Supported 2 by Command Ship 1]
+
+[color=red]AI ship 1: HP 3/9[/color]
+[color=red]AI ship 2: HP 6/7[/color]
+[color=red]AI ship 3: HP 3/3[/color]

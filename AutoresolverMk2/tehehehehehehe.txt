@@ -1,0 +1,46 @@
+*****Battle report: tehehehehehehe.txt*****
+
+[Starting Stats]:
+
+[b]Player fleet receives a power bonus of 1[/b]
+
+[b]Player fleet receives a temporary power bonus of 1 for 1 rounds.[/b]
+[b]Player fleet will flee if Blazing Dark is destroyed.[/b]
+[b][color=green]Gantrithor: Command Rating 9, Power 1, HP 1[/b][/color]
+[color=green]Blazing Dark: Power 5, Temp Power 1 for 1 exchanges, Shield Mitigation 2, Shield Strength 4, HP 5 (Commanded +5 by Player Command Ship 1)[/color]
+
+[color=red]AI Ship 1: Power 3, Temp Power 1 for 1 exchanges, Shield Mitigation 1, Shield Strength 8, HP 4 (Commanded +0 by AI Command Ship 0)[/color]
+[color=red]AI Ship 2: Power 3, Temp Power 1 for 1 exchanges, Shield Mitigation 1, Shield Strength 8, HP 5 (Commanded +0 by AI Command Ship 0)[/color]
+
+[Combat Details]:
+[color=green]Blazing Dark rolled -5 + 10 [+5 Sup] vs AI Ship 2's -2 + 3 [+0 Sup], dealing 3 damage [-1 Shield Mit][/color]!
+Player fleet has lost its temporary power bonus!
+Blazing Dark has lost its temporary power bonus!
+AI Ship 2 has lost its temporary power bonus!
+[color=green]Blazing Dark rolled 0 + 8 [+5 Sup] vs AI Ship 1's -2 + 3 [+0 Sup], dealing 6 damage [-1 Shield Mit][/color]!
+[color=blue]AI Ship 1 was destroyed![/color]
+AI Ship 1 has lost its temporary power bonus!
+AI Ship 2 has lost its temporary power bonus!
+[color=red]AI Ship 2 rolled 6 + 1 [+0 Sup] vs Blazing Dark's -2 + 8 [+5 Sup], dealing 0 damage! [-2 Shield Mit][/color]
+AI Ship 1 has lost its temporary power bonus!
+[color=green]Blazing Dark rolled 6 + 8 [+5 Sup] vs AI Ship 2's -5 + 1 [+0 Sup], dealing 17 damage [-1 Shield Mit][/color]!
+[color=blue]AI Ship 2 was destroyed![/color]
+AI Ship 1 has lost its temporary power bonus!
+
+
+*****RESULTS*****
+
+Player wins!
+Gantrithor gained 2XP!
+
+[Losses]:
+
+AI Ship 1 destroyed!
+AI Ship 2 destroyed!
+
+[Finishing Stats]:
+[b][color=green]Gantrithor1: Command Rating 9, Power 1, HP 1/1[/b][/color]
+[color=green]Blazing Dark: Power 3, Shield Mitigation 2, Shield Strength 2, HP 5/5[/color]
+
+[color=red]AI Ship 1: Power 0, Shield Mitigation 1, Shield Strength 7, HP -2/4[/color]
+[color=red]AI Ship 2: Power 1, Shield Mitigation 1, Shield Strength 6, HP -15/5[/color]

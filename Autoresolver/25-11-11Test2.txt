@@ -1,0 +1,27 @@
+*****Battle report: 25-11-11Test2.txt*****
+
+[Starting Stats]:
+
+[b]Player fleet will flee if ship 1 is reduced to 70 points of hull or less.[/b]
+[color=green]Player ship 1: HP [100] Power [0] Shield Mitigation [0] Shield Strength [0][/color]
+
+[color=red]AI ship 1: HP [100] Power [5] Shield Mitigation [5] Shield Strength [500][/color]
+
+[Combat Details]
+
+[b][color=orange]Player fleet has fled the battle![/color][/b]
+
+
+*****RESULTS*****
+
+Player ships Left: 1
+AI ships Left: 1
+
+Player wins!
+
+[Losses]:
+
+[Casualties]
+[color=green]Player ship 1: HP 100/100[/color]
+
+[color=red]AI ship 1: HP 100/100[/color]

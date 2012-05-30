@@ -1,0 +1,106 @@
+*****Battle report: 12-09-11.txt*****
+
+[Starting Stats]:
+Player Command Ship 1 Command 6
+Player ship 1: HP35 Pwr12 Mit2
+Player ship 2: HP35 Pwr12 Mit2
+Player ship 3: HP35 Pwr12 Mit2
+Player ship 4: HP35 Pwr12 Mit2
+AI ship 1: HP35 Pwr12 Mit2
+AI ship 2: HP35 Pwr12 Mit2
+AI ship 3: HP35 Pwr12 Mit2
+AI ship 4: HP35 Pwr12 Mit2
+
+[Combat Details]
+
+Player Command Ship 1 rolled 6 + 18 [+6 Sup] vs AI ship 2's -2 + 12, dealing 12 [-2 Mit] damage.
+Player ship 2 rolled 6 + 15 [+3 Sup] vs AI ship 2's -2 + 12, dealing 9 [-2 Mit] damage.
+Player ship 1 rolled 4 + 15 [+3 Sup] vs AI ship 2's -3 + 12, dealing 8 [-2 Mit] damage.
+Player ship 1 rolled -2 + 15 [+3 Sup] vs AI ship 3's -3 + 12, dealing 2 [-2 Mit] damage.
+Player ship 1 rolled 3 + 15 [+3 Sup] vs AI ship 1's 5 + 12, dealing 0 [-2 Mit] damage.
+Player ship 3 rolled -4 + 15 [+3 Sup] vs AI ship 1's -2 + 12, dealing 0 [-2 Mit] damage.
+Player ship 1 rolled 6 + 15 [+3 Sup] vs AI ship 2's -4 + 12, dealing 11 [-2 Mit] damage.
+AI ship 2 died.
+Player ship 2 rolled 0 + 15 [+3 Sup] vs AI ship 1's 3 + 12, dealing 0 [-2 Mit] damage.
+AI ship 1 rolled 1 + 12 vs Player ship 2's -4 + 15 [+3 Sup], dealing 0 [-2 Mit] damage.
+Player ship 1 rolled -4 + 15 [+3 Sup] vs AI ship 1's -2 + 12, dealing 0 [-2 Mit] damage.
+Player ship 2 rolled -2 + 15 [+3 Sup] vs AI ship 1's -5 + 12, dealing 4 [-2 Mit] damage.
+AI ship 1 rolled 0 + 12 vs Player ship 2's -4 + 15 [+3 Sup], dealing 0 [-2 Mit] damage.
+Player ship 1 rolled -2 + 15 [+3 Sup] vs AI ship 3's -4 + 12, dealing 3 [-2 Mit] damage.
+Player ship 1 rolled 3 + 15 [+3 Sup] vs AI ship 3's -1 + 12, dealing 5 [-2 Mit] damage.
+AI ship 1 rolled 5 + 12 vs Player ship 3's -5 + 15 [+3 Sup], dealing 5 [-2 Mit] damage.
+Player ship 2 rolled 5 + 15 [+3 Sup] vs AI ship 3's -4 + 12, dealing 10 [-2 Mit] damage.
+AI ship 1 rolled 6 + 12 vs Player ship 2's -2 + 15 [+3 Sup], dealing 3 [-2 Mit] damage.
+Player ship 3 rolled -1 + 15 [+3 Sup] vs AI ship 1's -3 + 12, dealing 3 [-2 Mit] damage.
+AI ship 1 rolled 4 + 12 vs Player ship 1's -1 + 15 [+3 Sup], dealing 0 [-2 Mit] damage.
+Player ship 2 rolled -4 + 15 [+3 Sup] vs AI ship 1's -2 + 12, dealing 0 [-2 Mit] damage.
+Player ship 2 rolled -4 + 15 [+3 Sup] vs AI ship 3's -2 + 12, dealing 0 [-2 Mit] damage.
+Player ship 1 rolled -2 + 15 [+3 Sup] vs AI ship 1's 1 + 12, dealing 0 [-2 Mit] damage.
+Player ship 3 rolled -3 + 15 [+3 Sup] vs AI ship 1's -3 + 12, dealing 1 [-2 Mit] damage.
+Player ship 1 rolled 5 + 15 [+3 Sup] vs AI ship 1's 0 + 12, dealing 6 [-2 Mit] damage.
+Player Command Ship 1 rolled 5 + 18 [+6 Sup] vs AI ship 2's 4 + 12, dealing 5 [-2 Mit] damage.
+Player ship 3 rolled 5 + 15 [+3 Sup] vs AI ship 3's 4 + 12, dealing 2 [-2 Mit] damage.
+Player ship 3 rolled 6 + 15 [+3 Sup] vs AI ship 1's -5 + 12, dealing 12 [-2 Mit] damage.
+Player ship 1 rolled 4 + 15 [+3 Sup] vs AI ship 1's -5 + 12, dealing 10 [-2 Mit] damage.
+AI ship 1 died.
+Player ship 1 rolled 3 + 15 [+3 Sup] vs AI ship 3's 6 + 12, dealing 0 [-2 Mit] damage.
+Player ship 3 rolled -2 + 15 [+3 Sup] vs AI ship 3's -2 + 12, dealing 1 [-2 Mit] damage.
+Player ship 2 rolled 1 + 15 [+3 Sup] vs AI ship 3's 0 + 12, dealing 2 [-2 Mit] damage.
+AI ship 3 rolled 5 + 12 vs Player ship 2's -1 + 15 [+3 Sup], dealing 1 [-2 Mit] damage.
+Player ship 1 rolled -2 + 15 [+3 Sup] vs AI ship 3's 0 + 12, dealing 0 [-2 Mit] damage.
+AI ship 3 rolled 1 + 12 vs Player ship 2's -5 + 15 [+3 Sup], dealing 1 [-2 Mit] damage.
+Player ship 1 rolled -3 + 15 [+3 Sup] vs AI ship 3's -1 + 12, dealing 0 [-2 Mit] damage.
+AI ship 3 rolled 6 + 12 vs Player ship 1's 0 + 15 [+3 Sup], dealing 1 [-2 Mit] damage.
+AI ship 3 rolled 6 + 12 vs Player ship 1's -5 + 15 [+3 Sup], dealing 6 [-2 Mit] damage.
+Player ship 3 rolled -1 + 15 [+3 Sup] vs AI ship 3's 0 + 12, dealing 0 [-2 Mit] damage.
+Player ship 1 rolled 3 + 15 [+3 Sup] vs AI ship 3's 2 + 12, dealing 2 [-2 Mit] damage.
+Player ship 2 rolled -4 + 15 [+3 Sup] vs AI ship 3's -2 + 12, dealing 0 [-2 Mit] damage.
+AI ship 3 rolled 6 + 12 vs Player ship 1's -4 + 15 [+3 Sup], dealing 5 [-2 Mit] damage.
+Player ship 1 rolled 5 + 15 [+3 Sup] vs AI ship 3's 6 + 12, dealing 0 [-2 Mit] damage.
+AI ship 3 rolled 3 + 12 vs Player ship 2's -2 + 15 [+3 Sup], dealing 0 [-2 Mit] damage.
+AI ship 3 rolled 1 + 12 vs Player ship 2's -4 + 15 [+3 Sup], dealing 0 [-2 Mit] damage.
+AI ship 3 rolled 6 + 12 vs Player ship 3's -1 + 15 [+3 Sup], dealing 2 [-2 Mit] damage.
+AI ship 3 rolled 6 + 12 vs Player ship 3's -5 + 15 [+3 Sup], dealing 6 [-2 Mit] damage.
+Player ship 3 rolled 3 + 15 [+3 Sup] vs AI ship 3's 6 + 12, dealing 0 [-2 Mit] damage.
+Player ship 1 rolled 0 + 15 [+3 Sup] vs AI ship 3's -2 + 12, dealing 3 [-2 Mit] damage.
+AI ship 3 died.
+Player ship 1 rolled -2 + 15 [+3 Sup] vs AI ship 4's 0 + 12, dealing 0 [-2 Mit] damage.
+Player Command Ship 1 rolled -3 + 18 [+6 Sup] vs AI ship 1's 1 + 12, dealing 0 [-2 Mit] damage.
+AI ship 4 rolled 1 + 12 vs Player ship 1's -3 + 15 [+3 Sup], dealing 0 [-2 Mit] damage.
+AI ship 4 rolled 0 + 12 vs Player ship 3's -4 + 15 [+3 Sup], dealing 0 [-2 Mit] damage.
+Player ship 1 rolled 1 + 15 [+3 Sup] vs AI ship 4's -1 + 12, dealing 3 [-2 Mit] damage.
+Player ship 2 rolled 2 + 15 [+3 Sup] vs AI ship 4's -3 + 12, dealing 6 [-2 Mit] damage.
+AI ship 4 rolled 0 + 12 vs Player ship 1's -4 + 15 [+3 Sup], dealing 0 [-2 Mit] damage.
+Player ship 1 rolled 3 + 15 [+3 Sup] vs AI ship 4's 0 + 12, dealing 4 [-2 Mit] damage.
+AI ship 4 rolled 1 + 12 vs Player ship 3's -4 + 15 [+3 Sup], dealing 0 [-2 Mit] damage.
+Player ship 3 rolled 2 + 15 [+3 Sup] vs AI ship 4's -5 + 12, dealing 8 [-2 Mit] damage.
+Player ship 1 rolled 2 + 15 [+3 Sup] vs AI ship 4's 0 + 12, dealing 3 [-2 Mit] damage.
+Player ship 3 rolled 3 + 15 [+3 Sup] vs AI ship 4's 3 + 12, dealing 1 [-2 Mit] damage.
+Player Command Ship 1 rolled 3 + 18 [+6 Sup] vs AI ship 1's -2 + 12, dealing 9 [-2 Mit] damage.
+Player ship 2 rolled 3 + 15 [+3 Sup] vs AI ship 4's -2 + 12, dealing 6 [-2 Mit] damage.
+AI ship 4 died.
+
+
+*****RESULTS*****
+
+Player ships Left: 4
+AI ships Left: 0
+
+Player wins!
+Player Command Ship 1 gained 4XP
+
+[Losses]:
+AI ship 2 dead.
+AI ship 1 dead.
+AI ship 3 dead.
+AI ship 4 dead.
+
+[Casualties]
+Player ship 1: HP 23/35 [Supported 3]
+Player ship 2: HP 30/35 [Supported 3]
+Player ship 3: HP 22/35 [Supported 3]
+Player ship 4: HP 35/35 [Supported 3]
+AI ship 2: HP -1/35
+AI ship 1: HP -5/35
+AI ship 3: HP 0/35
+AI ship 4: HP -5/35

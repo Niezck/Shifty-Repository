@@ -1,0 +1,43 @@
+*****Battle report: 14-12-11Magic.txt*****
+
+[Starting Stats]:
+
+[b]Player fleet receives a power bonus of 2[/b]
+
+[color=green]Player ship 1: HP [12] Power [4] Shield Mitigation [1] Shield Strength [8][/color]
+
+[color=red]AI Command Ship 1 Command 4, Power 0, HP 0[/color]
+[color=red]AI ship 1: HP [10] Power [2] Shield Mitigation [1] Shield Strength [8][/color]
+
+[Combat Details]
+
+[color=red]AI ship 1 rolled 3 + 4 [+2 Sup] vs Player ship 1's -3 + 4, dealing 5 [-1 Mit] damage.[/color]
+[color=green]Player ship 1 rolled 0 + 4 vs AI ship 1's -1 + 4 [+2 Sup], dealing 0 [-1 Mit] damage.[/color]
+[color=red]AI ship 1 rolled -2 + 4 [+2 Sup] vs Player ship 1's -3 + 4, dealing 0 [-1 Mit] damage.[/color]
+[color=green]Player ship 1 rolled 5 + 4 vs AI ship 1's -5 + 4 [+2 Sup], dealing 9 [-1 Mit] damage.[/color]
+[color=green]Player ship 1 rolled -2 + 4 vs AI ship 1's -3 + 4 [+2 Sup], dealing 0 [-1 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 5 + 4 [+2 Sup] vs Player ship 1's 1 + 4, dealing 3 [-1 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 0 + 4 [+2 Sup] vs Player ship 1's -1 + 4, dealing 0 [-1 Mit] damage.[/color]
+[color=green]Player ship 1 rolled 4 + 4 vs AI ship 1's 3 + 4 [+2 Sup], dealing 0 [-1 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 4 + 4 [+2 Sup] vs Player ship 1's -5 + 4, dealing 8 [-1 Mit] damage.[/color]
+[color=green]Player ship 1's shields have collapsed![/color]
+[color=blue]Player ship 1 been destroyed.[/color]
+
+
+*****RESULTS*****
+
+Player ships Left: 0
+AI ships Left: 1
+
+AI wins!
+
+AI Command Ship 1 gained 1XP
+
+[Losses]:
+[color=green]Player ship 1 dead.[/color]
+
+[Casualties]
+[color=green]Player ship 1: HP -4/12[/color]
+
+[b][color=red]AI Command Ship 1: HP 0[/color][/b]
+[color=red]AI ship 1: HP 1/10[/color] [Supported 2 by Command Ship 1]

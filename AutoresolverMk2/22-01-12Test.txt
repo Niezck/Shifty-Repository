@@ -1,0 +1,196 @@
+*****Battle report: 22-01-12Test.txt*****
+
+[Starting Stats]:
+
+[b][color=green]Player Command Ship 1: Command Rating 9, Power 4, HP 1[/b][/color]
+[color=green]Player Ship 1: Power 4, Shield Mitigation 2, Shield Strength 20, HP 26 (Commanded +5 by Player Command Ship 1)[/color]
+[color=green]Player Ship 2: Power 5, Shield Mitigation 2, Shield Strength 20, HP 22 (Commanded +5 by Player Command Ship 1)[/color]
+[color=green]Player Ship 3: Power 5, Shield Mitigation 4, Shield Strength 20, HP 42 (Commanded +5 by Player Command Ship 1)[/color]
+[color=green]Player Ship 4: Power 5, Shield Mitigation 2, Shield Strength 20, HP 28 (Commanded +5 by Player Command Ship 1)[/color]
+[color=green]Player Ship 5: Power 2, Shield Mitigation 2, Shield Strength 4, HP 7 (Commanded +5 by Player Command Ship 1)[/color]
+
+[b][color=red]AI Command Ship 1: Command Rating 10, Power 6, HP 1[/b][/color]
+[color=red]AI Ship 1: Power 2, Shield Mitigation 2, Shield Strength 4, HP 9 (Commanded +5 by AI Command Ship 1)[/color]
+[color=red]AI Ship 2: Power 2, Shield Mitigation 2, Shield Strength 4, HP 9 (Commanded +5 by AI Command Ship 1)[/color]
+[color=red]AI Ship 3: Power 2, Shield Mitigation 2, Shield Strength 4, HP 7 (Commanded +5 by AI Command Ship 1)[/color]
+[color=red]AI Ship 4: Power 2, Shield Mitigation 2, Shield Strength 4, HP 6 (Commanded +0 by AI Command Ship 0)[/color]
+[color=red]AI Ship 5: Power 2, Shield Mitigation 2, Shield Strength 4, HP 9 (Commanded +5 by AI Command Ship 1)[/color]
+[color=red]AI Ship 6: Power 2, Shield Mitigation 2, Shield Strength 4, HP 9 (Commanded +0 by AI Command Ship 0)[/color]
+[color=red]AI Ship 7: Power 2, Shield Mitigation 2, Shield Strength 4, HP 8 (Commanded +5 by AI Command Ship 1)[/color]
+[color=red]AI Ship 8: Power 2, Shield Mitigation 2, Shield Strength 4, HP 8 (Commanded +5 by AI Command Ship 1)[/color]
+[color=red]AI Ship 9: Power 2, Shield Mitigation 2, Shield Strength 4, HP 10 (Commanded +5 by AI Command Ship 1)[/color]
+[color=red]AI Ship 10: Power 2, Shield Mitigation 2, Shield Strength 4, HP 9 (Commanded +5 by AI Command Ship 1)[/color]
+[color=red]AI Ship 11: Power 2, Shield Mitigation 2, Shield Strength 4, HP 6 (Commanded +0 by AI Command Ship 0)[/color]
+[color=red]AI Ship 12: Power 2, Shield Mitigation 2, Shield Strength 4, HP 5 (Commanded +0 by AI Command Ship 0)[/color]
+[color=red]AI Ship 13: Power 9, Shield Mitigation 6, Shield Strength 40, HP 28 (Commanded +5 by AI Command Ship 1)[/color]
+[color=red]AI Ship 14: Power 9, Shield Mitigation 6, Shield Strength 40, HP 23 (Commanded +5 by AI Command Ship 1)[/color]
+
+[Combat Details]:
+[color=red]AI Ship 1 rolled 6 + 7 [+5 Sup] vs Player Ship 1's -1 + 9 [+5 Sup], dealing 3 damage! [-2 Shield Mit][/color]
+Player ship 5 and AI ship 8 fought but nobody gained an advantage!
+[color=green]Player Ship 1 rolled -5 + 9 [+5 Sup] vs AI Ship 4's -4 + 2 [+0 Sup], dealing 4 damage [-2 Shield Mit][/color]!
+[color=green]Player Ship 5 rolled -2 + 7 [+5 Sup] vs AI Ship 4's -3 + 2 [+0 Sup], dealing 4 damage [-2 Shield Mit][/color]!
+[color=red]AI Ship 4's shields have collapsed![/color]
+[color=blue]AI Ship 4 was destroyed![/color]
+[color=red]AI Ship 1 rolled 2 + 7 [+5 Sup] vs Player Ship 5's 0 + 7 [+5 Sup], dealing 0 damage! [-2 Shield Mit][/color]
+[color=red]AI Ship 7 rolled 3 + 7 [+5 Sup] vs Player Ship 5's -2 + 7 [+5 Sup], dealing 3 damage! [-2 Shield Mit][/color]
+[color=green]Player Ship 5's shields have collapsed![/color]
+[color=green]Player Ship 3 rolled 4 + 10 [+5 Sup] vs AI Ship 2's -2 + 7 [+5 Sup], dealing 7 damage [-2 Shield Mit][/color]!
+[color=green]Player Ship 4 rolled 6 + 10 [+5 Sup] vs AI Ship 5's 5 + 7 [+5 Sup], dealing 2 damage [-2 Shield Mit][/color]!
+[color=green]Player Ship 4 rolled 3 + 10 [+5 Sup] vs AI Ship 2's -3 + 7 [+5 Sup], dealing 7 damage [-2 Shield Mit][/color]!
+[color=red]AI Ship 2's shields have collapsed![/color]
+[color=blue]AI Ship 2 was destroyed![/color]
+[color=green]Player Ship 1 rolled -4 + 9 [+5 Sup] vs AI Ship 8's -4 + 7 [+5 Sup], dealing 0 damage [-2 Shield Mit][/color]!
+[color=green]Player Ship 2 rolled -1 + 10 [+5 Sup] vs AI Ship 6's 5 + 2 [+0 Sup], dealing 0 damage [-2 Shield Mit][/color]!
+[color=red]AI Ship 5 rolled 2 + 7 [+5 Sup] vs Player Ship 5's 1 + 7 [+5 Sup], dealing 1 damage! [-0 Shield Mit][/color]
+[color=green]Player Ship 1 rolled -1 + 9 [+5 Sup] vs AI Ship 6's 2 + 2 [+0 Sup], dealing 2 damage [-2 Shield Mit][/color]!
+[color=red]AI Ship 6's shields have collapsed![/color]
+Player ship 3 and AI ship 12 fought but nobody gained an advantage!
+[color=green]Player Ship 3 rolled 6 + 10 [+5 Sup] vs AI Ship 8's 2 + 7 [+5 Sup], dealing 5 damage [-2 Shield Mit][/color]!
+[color=red]AI Ship 8's shields have collapsed![/color]
+[color=green]Player Ship 1 rolled 4 + 9 [+5 Sup] vs AI Ship 11's 0 + 2 [+0 Sup], dealing 9 damage [-2 Shield Mit][/color]!
+[color=blue]AI Ship 11 was destroyed![/color]
+[color=green]Player Ship 2 rolled 0 + 10 [+5 Sup] vs AI Ship 9's -4 + 7 [+5 Sup], dealing 5 damage [-2 Shield Mit][/color]!
+[color=red]AI Ship 10 rolled 3 + 7 [+5 Sup] vs Player Ship 3's -5 + 10 [+5 Sup], dealing 1 damage! [-4 Shield Mit][/color]
+Player ship 5 and AI ship 7 fought but nobody gained an advantage!
+[color=red]AI Ship 7 rolled 0 + 7 [+5 Sup] vs Player Ship 3's -5 + 10 [+5 Sup], dealing 0 damage! [-4 Shield Mit][/color]
+[color=green]Player Ship 1 rolled 3 + 9 [+5 Sup] vs AI Ship 6's -1 + 2 [+0 Sup], dealing 11 damage [-0 Shield Mit][/color]!
+[color=blue]AI Ship 6 was destroyed![/color]
+[color=green][b]Player Command Ship 1 rolled 4 + 13 [+9 Sup] vs AI Command Ship 1's -5 + 16 [+10 Sup], dealing 1 damage.[/b][/color]
+[b][color=red]AI Command Ship 1 rolled 4 + 16 [+10 Sup] vs Player Ship 1's -5 + 9 [+5 Sup], dealing 14 damage [-2 Shield Mit][/b][/color]
+[color=green]Player Ship 4 rolled 5 + 10 [+5 Sup] vs AI Ship 1's -1 + 7 [+5 Sup], dealing 7 damage [-2 Shield Mit][/color]!
+[b][color=green]Player Command Ship 1 rolled -5 + 13 [+9 Sup] vs AI Ship 1's 6 + 7 [+5 Sup], dealing 0 damage [-2 Shield Mit][/b][/color].
+[color=red]AI Ship 14 rolled 0 + 14 [+5 Sup] vs Player Ship 5's 1 + 7 [+5 Sup], dealing 6 damage! [-0 Shield Mit][/color]
+[color=blue]Player Ship 5 was destroyed![/color]
+[color=red]AI Ship 10 rolled 6 + 7 [+5 Sup] vs Player Ship 2's 0 + 10 [+5 Sup], dealing 1 damage! [-2 Shield Mit][/color]
+[color=green]Player Ship 3 rolled 3 + 10 [+5 Sup] vs AI Ship 8's 2 + 7 [+5 Sup], dealing 4 damage [-0 Shield Mit][/color]!
+[color=blue]AI Ship 8 was destroyed![/color]
+[color=green]Player Ship 4 rolled 6 + 10 [+5 Sup] vs AI Ship 5's 6 + 7 [+5 Sup], dealing 1 damage [-2 Shield Mit][/color]!
+[color=red]AI Ship 5's shields have collapsed![/color]
+[color=green]Player Ship 2 rolled 5 + 10 [+5 Sup] vs AI Ship 9's -2 + 7 [+5 Sup], dealing 8 damage [-2 Shield Mit][/color]!
+[color=red]AI Ship 9's shields have collapsed![/color]
+[color=blue]AI Ship 9 was destroyed![/color]
+[color=red]AI Ship 14 rolled 2 + 14 [+5 Sup] vs Player Ship 4's -5 + 10 [+5 Sup], dealing 9 damage! [-2 Shield Mit][/color]
+[b][color=green]Player Command Ship 1 rolled -1 + 13 [+9 Sup] vs AI Ship 3's -3 + 7 [+5 Sup], dealing 6 damage [-2 Shield Mit][/b][/color].
+[color=red]AI Ship 13 rolled 2 + 14 [+5 Sup] vs Player Ship 4's 2 + 10 [+5 Sup], dealing 2 damage! [-2 Shield Mit][/color]
+Player ship 3 and AI ship 13 fought but nobody gained an advantage!
+[b][color=red]AI Command Ship 1 rolled 1 + 16 [+10 Sup] vs Player Ship 2's -5 + 10 [+5 Sup], dealing 10 damage [-2 Shield Mit][/b][/color]
+[color=green]Player Ship 1 rolled 4 + 9 [+5 Sup] vs AI Ship 1's -1 + 7 [+5 Sup], dealing 5 damage [-2 Shield Mit][/color]!
+[color=red]AI Ship 1's shields have collapsed![/color]
+[color=blue]AI Ship 1 was destroyed![/color]
+[b][color=red]AI Command Ship 1 rolled 5 + 16 [+10 Sup] vs Player Ship 4's 1 + 10 [+5 Sup], dealing 8 damage [-2 Shield Mit][/b][/color]
+[color=red]AI Ship 5 rolled -1 + 7 [+5 Sup] vs Player Ship 1's -5 + 9 [+5 Sup], dealing 0 damage! [-2 Shield Mit][/color]
+[color=green]Player Ship 2 rolled 3 + 10 [+5 Sup] vs AI Ship 12's 0 + 2 [+0 Sup], dealing 9 damage [-2 Shield Mit][/color]!
+[color=blue]AI Ship 12 was destroyed![/color]
+[color=red]AI Ship 10 rolled 5 + 7 [+5 Sup] vs Player Ship 1's 2 + 9 [+5 Sup], dealing 0 damage! [-2 Shield Mit][/color]
+[color=red]AI Ship 3 rolled 6 + 7 [+5 Sup] vs Player Ship 1's -3 + 9 [+5 Sup], dealing 5 damage! [-2 Shield Mit][/color]
+[b][color=green]Player Command Ship 1 rolled 4 + 13 [+9 Sup] vs AI Ship 10's 2 + 7 [+5 Sup], dealing 6 damage [-2 Shield Mit][/b][/color].
+[color=green]Player Ship 1 rolled 4 + 9 [+5 Sup] vs AI Ship 13's -5 + 14 [+5 Sup], dealing 0 damage [-6 Shield Mit][/color]!
+Player ship 3 and AI ship 10 fought but nobody gained an advantage!
+[color=green]Player Ship 1 rolled -2 + 9 [+5 Sup] vs AI Ship 7's -4 + 7 [+5 Sup], dealing 2 damage [-2 Shield Mit][/color]!
+[color=red]AI Ship 3 rolled 4 + 7 [+5 Sup] vs Player Ship 4's -3 + 10 [+5 Sup], dealing 2 damage! [-2 Shield Mit][/color]
+[color=red]AI Ship 14 rolled 5 + 14 [+5 Sup] vs Player Ship 3's 6 + 10 [+5 Sup], dealing 0 damage! [-4 Shield Mit][/color]
+[color=green]Player Ship 3 rolled 5 + 10 [+5 Sup] vs AI Ship 10's -4 + 7 [+5 Sup], dealing 10 damage [-2 Shield Mit][/color]!
+[color=red]AI Ship 10's shields have collapsed![/color]
+[color=blue]AI Ship 10 was destroyed![/color]
+[color=red]AI Ship 14 rolled -3 + 14 [+5 Sup] vs Player Ship 1's -1 + 9 [+5 Sup], dealing 1 damage! [-2 Shield Mit][/color]
+[color=red]AI Ship 13 rolled 4 + 14 [+5 Sup] vs Player Ship 4's -2 + 10 [+5 Sup], dealing 8 damage! [-2 Shield Mit][/color]
+[color=blue]Player Ship 4 was destroyed![/color]
+[color=green]Player Ship 2 rolled 3 + 10 [+5 Sup] vs AI Ship 13's -3 + 14 [+5 Sup], dealing 0 damage [-6 Shield Mit][/color]!
+[color=red]AI Ship 5 rolled 4 + 7 [+5 Sup] vs Player Ship 3's 0 + 10 [+5 Sup], dealing 0 damage! [-4 Shield Mit][/color]
+Player ship 3 and AI ship 5 fought but nobody gained an advantage!
+[color=green]Player Ship 1 rolled 2 + 9 [+5 Sup] vs AI Ship 5's -4 + 7 [+5 Sup], dealing 8 damage [-0 Shield Mit][/color]!
+[color=blue]AI Ship 5 was destroyed![/color]
+[color=green]Player Ship 2 rolled 4 + 10 [+5 Sup] vs AI Ship 7's 3 + 7 [+5 Sup], dealing 2 damage [-2 Shield Mit][/color]!
+[color=red]AI Ship 7's shields have collapsed![/color]
+[color=green]Player Ship 2 rolled 0 + 10 [+5 Sup] vs AI Ship 7's -5 + 7 [+5 Sup], dealing 8 damage [-0 Shield Mit][/color]!
+[color=blue]AI Ship 7 was destroyed![/color]
+Player ship 2 and AI ship 3 fought but nobody gained an advantage!
+[color=red]AI Ship 13 rolled -3 + 14 [+5 Sup] vs Player Ship 1's 1 + 9 [+5 Sup], dealing 0 damage! [-2 Shield Mit][/color]
+[color=green]Player Ship 3 rolled 1 + 10 [+5 Sup] vs AI Ship 13's -5 + 14 [+5 Sup], dealing 0 damage [-6 Shield Mit][/color]!
+[color=green]Player Ship 2 rolled 1 + 10 [+5 Sup] vs AI Ship 13's -4 + 14 [+5 Sup], dealing 0 damage [-6 Shield Mit][/color]!
+[b][color=green]Player Command Ship 1 rolled -1 + 13 [+9 Sup] vs AI Ship 13's 1 + 14 [+5 Sup], dealing 0 damage [-6 Shield Mit][/b][/color].
+[b][color=green]Player Command Ship 1 rolled 4 + 13 [+9 Sup] vs AI Ship 13's -2 + 14 [+5 Sup], dealing 0 damage [-6 Shield Mit][/b][/color].
+[b][color=red]AI Command Ship 1 rolled -2 + 16 [+10 Sup] vs Player Ship 1's 1 + 9 [+5 Sup], dealing 2 damage [-2 Shield Mit][/b][/color]
+[color=red]AI Ship 13 rolled 1 + 14 [+5 Sup] vs Player Ship 3's -5 + 10 [+5 Sup], dealing 6 damage! [-4 Shield Mit][/color]
+[color=green]Player Ship 3 rolled 1 + 10 [+5 Sup] vs AI Ship 14's -4 + 14 [+5 Sup], dealing 0 damage [-6 Shield Mit][/color]!
+[color=red]AI Ship 13 rolled 4 + 14 [+5 Sup] vs Player Ship 1's -2 + 9 [+5 Sup], dealing 9 damage! [-2 Shield Mit][/color]
+[color=blue]Player Ship 1 was destroyed![/color]
+[b][color=green]Player Command Ship 1 rolled 0 + 13 [+9 Sup] vs AI Ship 3's -5 + 7 [+5 Sup], dealing 9 damage [-2 Shield Mit][/b][/color].
+[color=red]AI Ship 3's shields have collapsed![/color]
+[color=blue]AI Ship 3 was destroyed![/color]
+[color=green]Player Ship 2 rolled 2 + 10 [+5 Sup] vs AI Ship 14's -4 + 14 [+5 Sup], dealing 0 damage [-6 Shield Mit][/color]!
+[b][color=green]Player Command Ship 1 rolled 0 + 13 [+9 Sup] vs AI Ship 14's 1 + 14 [+5 Sup], dealing 0 damage [-6 Shield Mit][/b][/color].
+[b][color=green]Player Command Ship 1 rolled 0 + 13 [+9 Sup] vs AI Ship 14's -4 + 14 [+5 Sup], dealing 0 damage [-6 Shield Mit][/b][/color].
+[color=red]AI Ship 13 rolled 5 + 14 [+5 Sup] vs Player Ship 3's 2 + 10 [+5 Sup], dealing 3 damage! [-4 Shield Mit][/color]
+[color=red]AI Ship 14 rolled -5 + 14 [+5 Sup] vs Player Ship 2's -4 + 10 [+5 Sup], dealing 1 damage! [-2 Shield Mit][/color]
+[color=red]AI Ship 13 rolled 3 + 14 [+5 Sup] vs Player Ship 2's -3 + 10 [+5 Sup], dealing 8 damage! [-2 Shield Mit][/color]
+[color=red]AI Ship 14 rolled 6 + 14 [+5 Sup] vs Player Ship 2's -5 + 10 [+5 Sup], dealing 13 damage! [-2 Shield Mit][/color]
+[color=blue]Player Ship 2 was destroyed![/color]
+[color=red]AI Ship 14 rolled -2 + 14 [+5 Sup] vs Player Ship 3's -4 + 10 [+5 Sup], dealing 2 damage! [-4 Shield Mit][/color]
+[color=green]Player Ship 3's shields have collapsed![/color]
+[color=green]Player Ship 3 rolled 5 + 10 [+5 Sup] vs AI Ship 13's -4 + 14 [+5 Sup], dealing 0 damage [-6 Shield Mit][/color]!
+[color=green]Player Ship 3 rolled 6 + 10 [+5 Sup] vs AI Ship 13's -2 + 14 [+5 Sup], dealing 0 damage [-6 Shield Mit][/color]!
+[color=green]Player Ship 3 rolled 5 + 10 [+5 Sup] vs AI Ship 14's -3 + 14 [+5 Sup], dealing 0 damage [-6 Shield Mit][/color]!
+[color=green]Player Ship 3 rolled 4 + 10 [+5 Sup] vs AI Ship 14's -4 + 14 [+5 Sup], dealing 0 damage [-6 Shield Mit][/color]!
+[color=red]AI Ship 14 rolled 4 + 14 [+5 Sup] vs Player Ship 3's 5 + 10 [+5 Sup], dealing 3 damage! [-0 Shield Mit][/color]
+[b][color=green]Player Command Ship 1 rolled 0 + 13 [+9 Sup] vs AI Ship 14's -3 + 14 [+5 Sup], dealing 0 damage [-6 Shield Mit][/b][/color].
+[color=red]AI Ship 14 rolled -5 + 14 [+5 Sup] vs Player Ship 3's -4 + 10 [+5 Sup], dealing 3 damage! [-0 Shield Mit][/color]
+[color=red]AI Ship 14 rolled 5 + 14 [+5 Sup] vs Player Ship 3's -4 + 10 [+5 Sup], dealing 13 damage! [-0 Shield Mit][/color]
+[b][color=green]Player Command Ship 1 rolled -2 + 13 [+9 Sup] vs AI Ship 13's -2 + 14 [+5 Sup], dealing 0 damage [-6 Shield Mit][/b][/color].
+[color=red]AI Ship 14 rolled 3 + 14 [+5 Sup] vs Player Ship 3's -3 + 10 [+5 Sup], dealing 10 damage! [-0 Shield Mit][/color]
+[b][color=green]Player Command Ship 1 rolled -4 + 13 [+9 Sup] vs AI Ship 14's -3 + 14 [+5 Sup], dealing 0 damage [-6 Shield Mit][/b][/color].
+[b][color=red]AI Command Ship 1 rolled 3 + 16 [+10 Sup] vs Player Ship 3's 5 + 10 [+5 Sup], dealing 4 damage [-0 Shield Mit][/b][/color]
+[color=blue]Player Ship 3 was destroyed![/color]
+[b]Due to defeat, Player Command Ship 1 has taken 1 damage![/b]
+
+
+*****RESULTS*****
+
+AI wins!
+Player Command Ship 1 gained 13XP!
+AI Command Ship 1 gained 6XP!
+
+[Losses]:
+
+Player Ship 1 destroyed!
+Player Ship 2 destroyed!
+Player Ship 3 destroyed!
+Player Ship 4 destroyed!
+Player Ship 5 destroyed!
+AI Ship 1 destroyed!
+AI Ship 2 destroyed!
+AI Ship 3 destroyed!
+AI Ship 4 destroyed!
+AI Ship 5 destroyed!
+AI Ship 6 destroyed!
+AI Ship 7 destroyed!
+AI Ship 8 destroyed!
+AI Ship 9 destroyed!
+AI Ship 10 destroyed!
+AI Ship 11 destroyed!
+AI Ship 12 destroyed!
+
+[Finishing Stats]:
+[b][color=green]Player Command Ship 1: Command Rating 9, Power 4, HP 0/1[/b][/color]
+[color=green]Player Ship 1: Power 4, Shield Mitigation 2, Shield Strength 4, HP -8/26[/color]
+[color=green]Player Ship 2: Power 5, Shield Mitigation 2, Shield Strength 10, HP -11/22[/color]
+[color=green]Player Ship 3: Power 5, Shield Mitigation 0, Shield Strength -2, HP -3/42[/color]
+[color=green]Player Ship 4: Power 5, Shield Mitigation 2, Shield Strength 10, HP -1/28[/color]
+[color=green]Player Ship 5: Power 2, Shield Mitigation 0, Shield Strength 0, HP -3/7[/color]
+
+[b][color=red]AI Command Ship 1: Command Rating 10, Power 6, HP 0/1[/b][/color]
+[color=red]AI Ship 1: Power 2, Shield Mitigation 0, Shield Strength 0, HP -3/9[/color]
+[color=red]AI Ship 2: Power 2, Shield Mitigation 0, Shield Strength 0, HP -5/9[/color]
+[color=red]AI Ship 3: Power 2, Shield Mitigation 0, Shield Strength 0, HP -8/7[/color]
+[color=red]AI Ship 4: Power 2, Shield Mitigation 0, Shield Strength 0, HP -2/6[/color]
+[color=red]AI Ship 5: Power 2, Shield Mitigation 0, Shield Strength 0, HP -2/9[/color]
+[color=red]AI Ship 6: Power 2, Shield Mitigation 0, Shield Strength 0, HP -4/9[/color]
+[color=red]AI Ship 7: Power 2, Shield Mitigation 0, Shield Strength 0, HP -4/8[/color]
+[color=red]AI Ship 8: Power 2, Shield Mitigation 0, Shield Strength 0, HP -1/8[/color]
+[color=red]AI Ship 9: Power 2, Shield Mitigation 0, Shield Strength 0, HP -3/10[/color]
+[color=red]AI Ship 10: Power 2, Shield Mitigation 0, Shield Strength 0, HP -7/9[/color]
+[color=red]AI Ship 11: Power 2, Shield Mitigation 2, Shield Strength 2, HP -3/6[/color]
+[color=red]AI Ship 12: Power 2, Shield Mitigation 2, Shield Strength 2, HP -4/5[/color]
+[color=red]AI Ship 13: Power 9, Shield Mitigation 6, Shield Strength 17, HP 28/28[/color]
+[color=red]AI Ship 14: Power 9, Shield Mitigation 6, Shield Strength 24, HP 23/23[/color]

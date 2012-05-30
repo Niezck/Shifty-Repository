@@ -1,0 +1,32 @@
+*****Battle report: watdonao.txt*****
+
+[Starting Stats]:
+
+[b]Player fleet receives a power bonus of 1[/b]
+
+[b]Player fleet will flee if  is destroyed.[/b]
+[b][color=green]Gantrithor : Command Rating 9, Power 1, HP 0[/b][/color]
+[color=green]Blazing Dark : Power 3, Shield Mitigation 2, Shield Strength 4, HP 5 (Commanded +0 by Player Command Ship 1)[/color]
+
+[color=red]AI Ship 1: Power 2, Shield Mitigation 1, Shield Strength 8, HP 4 (Commanded +0 by AI Command Ship 0)[/color]
+[color=red]AI Ship 2: Power 2, Shield Mitigation 1, Shield Strength 8, HP 5 (Commanded +0 by AI Command Ship 0)[/color]
+
+[Combat Details]:
+Blazing Dark  and AI Ship 1 fought but nobody gained an advantage!
+Player fleet has fled!
+
+
+*****RESULTS*****
+
+AI wins!
+Gantrithor  gained 0XP!
+
+[Losses]:
+
+
+[Finishing Stats]:
+[b][color=green]Gantrithor 1: Command Rating 9, Power 1, HP 0/1[/b][/color]
+[color=green]Blazing Dark : Power 3, Shield Mitigation 2, Shield Strength 4, HP 5/5[/color]
+
+[color=red]AI Ship 1: Power 2, Shield Mitigation 1, Shield Strength 8, HP 4/4[/color]
+[color=red]AI Ship 2: Power 2, Shield Mitigation 1, Shield Strength 8, HP 5/5[/color]

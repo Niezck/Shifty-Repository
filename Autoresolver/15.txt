@@ -1,0 +1,122 @@
+*****Battle report: 15.txt*****
+
+[Starting Stats]:
+Player ship 1: HP [35] Power [12] Shield Mitigation [6] Shield Strength [30
+AI ship 1: HP [10] Power2 Shield Mitigation [2] Shield Strength [4]
+AI ship 2: HP [10] Power2 Shield Mitigation [2] Shield Strength [4]
+AI ship 3: HP [10] Power2 Shield Mitigation [2] Shield Strength [4]
+AI ship 4: HP [10] Power2 Shield Mitigation [2] Shield Strength [4]
+AI ship 5: HP [10] Power2 Shield Mitigation [2] Shield Strength [4]
+AI ship 6: HP [10] Power2 Shield Mitigation [2] Shield Strength [4]
+AI ship 7: HP [10] Power2 Shield Mitigation [2] Shield Strength [4]
+AI ship 8: HP [10] Power2 Shield Mitigation [2] Shield Strength [4]
+AI ship 9: HP [10] Power2 Shield Mitigation [2] Shield Strength [4]
+AI ship 10: HP [10] Power2 Shield Mitigation [2] Shield Strength [4]
+AI ship 11: HP [10] Power2 Shield Mitigation [2] Shield Strength [4]
+AI ship 12: HP [10] Power2 Shield Mitigation [2] Shield Strength [4]
+AI ship 13: HP [10] Power2 Shield Mitigation [2] Shield Strength [4]
+AI ship 14: HP [10] Power2 Shield Mitigation [2] Shield Strength [4]
+AI ship 15: HP [10] Power2 Shield Mitigation [2] Shield Strength [4]
+
+[Combat Details]
+
+Player ship 1 rolled 3 + 12 vs AI ship 1's 5 + 2, dealing 6 [-2 Mit] damage.
+Player ship 1 rolled 0 + 12 vs AI ship 12's -3 + 2, dealing 11 [-2 Mit] damage.
+AI ship 12's shields have collapsed!
+AI ship 12 died.
+Player ship 1 rolled -1 + 12 vs AI ship 4's 6 + 2, dealing 1 [-2 Mit] damage.
+Player ship 1 rolled -1 + 12 vs AI ship 14's 3 + 2, dealing 4 [-2 Mit] damage.
+Player ship 1 rolled -5 + 12 vs AI ship 1's 1 + 2, dealing 2 [-2 Mit] damage.
+AI ship 1's shields have collapsed!
+Player ship 1 rolled 0 + 12 vs AI ship 1's 4 + 2, dealing 6 [-0 Mit] damage.
+AI ship 1 died.
+Player ship 1 rolled 4 + 12 vs AI ship 2's 0 + 2, dealing 12 [-2 Mit] damage.
+AI ship 2's shields have collapsed!
+AI ship 2 died.
+Player ship 1 rolled -5 + 12 vs AI ship 7's 0 + 2, dealing 3 [-2 Mit] damage.
+Player ship 1 rolled -2 + 12 vs AI ship 8's 5 + 2, dealing 1 [-2 Mit] damage.
+Player ship 1 rolled -3 + 12 vs AI ship 5's -2 + 2, dealing 7 [-2 Mit] damage.
+Player ship 1 rolled 3 + 12 vs AI ship 3's 3 + 2, dealing 10 [-0 Mit] damage.
+AI ship 3's shields have collapsed!
+AI ship 3 died.
+Player ship 1 rolled -5 + 12 vs AI ship 13's -5 + 2, dealing 8 [-2 Mit] damage.
+Player ship 1 rolled -3 + 12 vs AI ship 10's 4 + 2, dealing 1 [-2 Mit] damage.
+Player ship 1 rolled 5 + 12 vs AI ship 10's -1 + 2, dealing 14 [-2 Mit] damage.
+AI ship 10's shields have collapsed!
+AI ship 10 died.
+Player ship 1 rolled 6 + 12 vs AI ship 4's -5 + 2, dealing 19 [-2 Mit] damage.
+AI ship 4's shields have collapsed!
+AI ship 4 died.
+Player ship 1 rolled -3 + 12 vs AI ship 14's -5 + 2, dealing 12 [-0 Mit] damage.
+AI ship 14's shields have collapsed!
+AI ship 14 died.
+Player ship 1 rolled -1 + 12 vs AI ship 6's -3 + 2, dealing 10 [-2 Mit] damage.
+AI ship 6's shields have collapsed!
+AI ship 6 died.
+Player ship 1 rolled -4 + 12 vs AI ship 13's -3 + 2, dealing 7 [-2 Mit] damage.
+AI ship 13's shields have collapsed!
+AI ship 13 died.
+Player ship 1 rolled 4 + 12 vs AI ship 5's 5 + 2, dealing 9 [-0 Mit] damage.
+AI ship 5's shields have collapsed!
+AI ship 5 died.
+Player ship 1 rolled 1 + 12 vs AI ship 8's 0 + 2, dealing 9 [-2 Mit] damage.
+AI ship 8's shields have collapsed!
+AI ship 8 died.
+Player ship 1 rolled 1 + 12 vs AI ship 11's 4 + 2, dealing 7 [-0 Mit] damage.
+Player ship 1 rolled -5 + 12 vs AI ship 9's -2 + 2, dealing 5 [-2 Mit] damage.
+Player ship 1 rolled -4 + 12 vs AI ship 9's 0 + 2, dealing 4 [-2 Mit] damage.
+Player ship 1 rolled -2 + 12 vs AI ship 9's 4 + 2, dealing 2 [-2 Mit] damage.
+AI ship 9's shields have collapsed!
+AI ship 9 died.
+Player ship 1 rolled 5 + 12 vs AI ship 7's -2 + 2, dealing 17 [-0 Mit] damage.
+AI ship 7's shields have collapsed!
+AI ship 7 died.
+Player ship 1 rolled 4 + 12 vs AI ship 11's 1 + 2, dealing 13 [-0 Mit] damage.
+AI ship 11's shields have collapsed!
+AI ship 11 died.
+Player ship 1 rolled 4 + 12 vs AI ship 15's 1 + 2, dealing 11 [-2 Mit] damage.
+AI ship 15's shields have collapsed!
+AI ship 15 died.
+
+
+*****RESULTS*****
+
+Player ships Left: 1
+AI ships Left: 0
+
+Player wins!
+
+[Losses]:
+AI ship 12 dead.
+AI ship 1 dead.
+AI ship 2 dead.
+AI ship 3 dead.
+AI ship 10 dead.
+AI ship 4 dead.
+AI ship 14 dead.
+AI ship 6 dead.
+AI ship 13 dead.
+AI ship 5 dead.
+AI ship 8 dead.
+AI ship 9 dead.
+AI ship 7 dead.
+AI ship 11 dead.
+AI ship 15 dead.
+
+[Casualties]
+Player ship 1: HP 35/35
+AI ship 12: HP -4/10
+AI ship 1: HP -2/10
+AI ship 2: HP 0/10
+AI ship 3: HP -10/10
+AI ship 10: HP -6/10
+AI ship 4: HP 0/10
+AI ship 14: HP -10/10
+AI ship 6: HP 0/10
+AI ship 13: HP -1/10
+AI ship 5: HP -5/10
+AI ship 8: HP -10/10
+AI ship 9: HP -1/10
+AI ship 7: HP -5/10
+AI ship 11: HP -6/10
+AI ship 15: HP -1/10

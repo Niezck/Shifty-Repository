@@ -1,0 +1,87 @@
+*****Battle report: 03-01-12FedDom.txt*****
+
+[Starting Stats]:
+
+[color=green]Player ship 1: HP [9] Power [2] Shield Mitigation [2] Shield Strength [4][/color]
+[color=green]Player ship 2: HP [9] Power [2] Shield Mitigation [2] Shield Strength [4][/color]
+[color=green]Player ship 3: HP [7] Power [2] Shield Mitigation [2] Shield Strength [4][/color]
+[color=green]Player ship 4: HP [7] Power [2] Shield Mitigation [2] Shield Strength [4][/color]
+[color=green]Player ship 5: HP [10] Power [2] Shield Mitigation [2] Shield Strength [4][/color]
+[color=green]Player ship 6: HP [9] Power [2] Shield Mitigation [2] Shield Strength [4][/color]
+[color=green]Player ship 7: HP [8] Power [2] Shield Mitigation [2] Shield Strength [4][/color]
+[color=green]Player ship 8: HP [8] Power [2] Shield Mitigation [2] Shield Strength [4][/color]
+
+[color=red]AI ship 1: HP [23] Power [7] Shield Mitigation [4] Shield Strength [50][/color]
+[color=red]AI ship 2: HP [22] Power [7] Shield Mitigation [4] Shield Strength [50][/color]
+
+[Combat Details]
+
+[color=red]AI ship 1 rolled 0 + 7 vs Player ship 1's -4 + 2, dealing 7 [-2 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 1 + 7 vs Player ship 4's 2 + 2, dealing 2 [-2 Mit] damage.[/color]
+[color=red]AI ship 1 rolled -1 + 7 vs Player ship 7's 1 + 2, dealing 1 [-2 Mit] damage.[/color]
+[color=red]AI ship 1 rolled -2 + 7 vs Player ship 7's 2 + 2, dealing 0 [-2 Mit] damage.[/color]
+[color=green]Player ship 7's shields have collapsed![/color]
+[color=red]AI ship 1 rolled 0 + 7 vs Player ship 2's 4 + 2, dealing 0 [-2 Mit] damage.[/color]
+[color=red]AI ship 1 rolled -1 + 7 vs Player ship 2's 0 + 2, dealing 2 [-2 Mit] damage.[/color]
+[color=green]Player ship 2's shields have collapsed![/color]
+[color=red]AI ship 1 rolled 3 + 7 vs Player ship 1's 0 + 2, dealing 6 [-2 Mit] damage.[/color]
+[color=green]Player ship 1's shields have collapsed![/color]
+[color=blue]Player ship 1 been destroyed.[/color]
+[color=red]AI ship 1 rolled 4 + 7 vs Player ship 6's 1 + 2, dealing 6 [-2 Mit] damage.[/color]
+[color=red]AI ship 1 rolled -2 + 7 vs Player ship 2's -2 + 2, dealing 5 [-0 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 6 + 7 vs Player ship 2's 6 + 2, dealing 5 [-0 Mit] damage.[/color]
+[color=blue]Player ship 2 been destroyed.[/color]
+[color=red]AI ship 1 rolled 4 + 7 vs Player ship 7's 0 + 2, dealing 9 [-0 Mit] damage.[/color]
+[color=blue]Player ship 7 been destroyed.[/color]
+[color=red]AI ship 1 rolled 4 + 7 vs Player ship 3's 4 + 2, dealing 3 [-2 Mit] damage.[/color]
+[color=red]AI ship 1 rolled -2 + 7 vs Player ship 5's -4 + 2, dealing 5 [-2 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 2 + 7 vs Player ship 6's 3 + 2, dealing 2 [-2 Mit] damage.[/color]
+[color=red]AI ship 1 rolled -3 + 7 vs Player ship 3's -3 + 2, dealing 3 [-2 Mit] damage.[/color]
+[color=green]Player ship 3's shields have collapsed![/color]
+[color=red]AI ship 1 rolled 6 + 7 vs Player ship 5's 1 + 2, dealing 10 [-0 Mit] damage.[/color]
+[color=green]Player ship 5's shields have collapsed![/color]
+[color=blue]Player ship 5 been destroyed.[/color]
+[color=red]AI ship 1 rolled 5 + 7 vs Player ship 4's -4 + 2, dealing 12 [-2 Mit] damage.[/color]
+[color=green]Player ship 4's shields have collapsed![/color]
+[color=blue]Player ship 4 been destroyed.[/color]
+[color=red]AI ship 1 rolled 0 + 7 vs Player ship 3's 2 + 2, dealing 1 [-2 Mit] damage.[/color]
+[color=blue]Player ship 3 been destroyed.[/color]
+[color=green]Player ship 6 rolled 3 + 2 vs AI ship 1's -5 + 7, dealing 0 [-4 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 4 + 7 vs Player ship 6's -4 + 2, dealing 11 [-2 Mit] damage.[/color]
+[color=green]Player ship 6's shields have collapsed![/color]
+[color=blue]Player ship 6 been destroyed.[/color]
+[color=red]AI ship 1 rolled 4 + 7 vs Player ship 8's -3 + 2, dealing 12 [-0 Mit] damage.[/color]
+[color=green]Player ship 8's shields have collapsed![/color]
+[color=blue]Player ship 8 been destroyed.[/color]
+
+
+*****RESULTS*****
+
+Player ships Left: 0
+AI ships Left: 2
+
+AI wins!
+
+
+[Losses]:
+[color=green]Player ship 1 dead.[/color]
+[color=green]Player ship 2 dead.[/color]
+[color=green]Player ship 7 dead.[/color]
+[color=green]Player ship 5 dead.[/color]
+[color=green]Player ship 4 dead.[/color]
+[color=green]Player ship 3 dead.[/color]
+[color=green]Player ship 6 dead.[/color]
+[color=green]Player ship 8 dead.[/color]
+
+[Casualties]
+[color=green]Player ship 1: HP -4/9[/color]
+[color=green]Player ship 2: HP -3/9[/color]
+[color=green]Player ship 7: HP -2/8[/color]
+[color=green]Player ship 5: HP -5/10[/color]
+[color=green]Player ship 4: HP -7/7[/color]
+[color=green]Player ship 3: HP 0/7[/color]
+[color=green]Player ship 6: HP -10/9[/color]
+[color=green]Player ship 8: HP -4/8[/color]
+
+[color=red]AI ship 1: HP 23/23[/color]
+[color=red]AI ship 2: HP 22/22[/color]

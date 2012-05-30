@@ -1,0 +1,39 @@
+*****Battle report: 25-11-11Kal2.txt*****
+
+[Starting Stats]:
+
+[b]Player fleet will flee if ship 1 is reduced to 5 points of hull or less.[/b]
+[color=green]Player Command Ship 1 Command 2, Power 0, HP 1[/color]
+[color=green]Player ship 1: HP [23] Power [2] Shield Mitigation [2] Shield Strength [20][/color]
+[color=green]Player ship 2: HP [4] Power [2] Shield Mitigation [2] Shield Strength [4][/color]
+[color=green]Player ship 3: HP [7] Power [2] Shield Mitigation [1] Shield Strength [8][/color]
+
+[color=red]AI ship 1: HP [5] Power [2] Shield Mitigation [2] Shield Strength [4][/color]
+
+[Combat Details]
+
+[color=green]Player ship 1 rolled 6 + 2 vs AI ship 1's 3 + 2, dealing 1 [-2 Mit] damage.[/color]
+[color=green]Player ship 1 rolled 2 + 2 vs AI ship 1's -2 + 2, dealing 2 [-2 Mit] damage.[/color]
+[color=red]AI ship 1's shields have collapsed![/color]
+[color=green]Player ship 2 rolled 0 + 3 [+1 Sup] vs AI ship 1's -5 + 2, dealing 6 [-0 Mit] damage.[/color]
+[color=blue]AI ship 1 been destroyed.[/color]
+
+
+*****RESULTS*****
+
+Player ships Left: 3
+AI ships Left: 0
+
+Player wins!
+Player Command Ship 1 gained 1XP
+
+[Losses]:
+[color=red]AI ship 1 dead.[/color]
+
+[Casualties]
+[b][color=green]Player Command Ship 1: HP 1[/color][/b]
+[color=green]Player ship 1: HP 23/23[/color]
+[color=green]Player ship 2: HP 4/4[/color] [Supported 1 by Command Ship 1]
+[color=green]Player ship 3: HP 7/7[/color] [Supported 1 by Command Ship 1]
+
+[color=red]AI ship 1: HP -4/5[/color]

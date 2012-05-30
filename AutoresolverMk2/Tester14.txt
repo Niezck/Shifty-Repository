@@ -1,0 +1,34 @@
+*****Battle report: Tester14.txt*****
+
+[Starting Stats]:
+
+[b]Player fleet will flee if ship 1 is reduced to 5 points of hull or less.[/b]
+[color=green]Player Ship 1: Power 3, Shield Mitigation 3, Shield Strength 3, HP 3 (Commanded +0 by Player Command Ship 0)[/color]
+[color=green]Player Ship 2: Power 3, Shield Mitigation 3, Shield Strength 3, HP 3 (Commanded +0 by Player Command Ship 0)[/color]
+[color=green]Player Ship 3: Power 3, Shield Mitigation 3, Shield Strength 3, HP 3 (Commanded +0 by Player Command Ship 0)[/color]
+
+[color=red]AI Ship 1: Power 3, Shield Mitigation 3, Shield Strength 3, HP 3 (Commanded +0 by AI Command Ship 0)[/color]
+[color=red]AI Ship 2: Power 3, Shield Mitigation 3, Shield Strength 3, HP 3 (Commanded +0 by AI Command Ship 0)[/color]
+[color=red]AI Ship 3: Power 3, Shield Mitigation 3, Shield Strength 3, HP 3 (Commanded +0 by AI Command Ship 0)[/color]
+
+[Combat Details]:
+[color=red]AI Ship 3 rolled 0 + 3 [+0 Sup] vs Player Ship 1's -3 + 3 [+0 Sup], dealing 0 damage! [-3 Shield Mit][/color]
+[color=green]Player Ship 1's shields have collapsed![/color]
+Player fleet has fled!
+
+
+*****RESULTS*****
+
+AI wins!
+
+[Losses]:
+
+
+[Finishing Stats]:
+[color=green]Player Ship 1: Power 3, Shield Mitigation 0, Shield Strength 0, HP 3/3[/color]
+[color=green]Player Ship 2: Power 3, Shield Mitigation 3, Shield Strength 3, HP 3/3[/color]
+[color=green]Player Ship 3: Power 3, Shield Mitigation 3, Shield Strength 3, HP 3/3[/color]
+
+[color=red]AI Ship 1: Power 3, Shield Mitigation 3, Shield Strength 3, HP 3/3[/color]
+[color=red]AI Ship 2: Power 3, Shield Mitigation 3, Shield Strength 3, HP 3/3[/color]
+[color=red]AI Ship 3: Power 3, Shield Mitigation 3, Shield Strength 3, HP 3/3[/color]

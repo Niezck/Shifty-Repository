@@ -1,0 +1,44 @@
+*****Battle report: 19-01-12Mike.txt*****
+
+[Starting Stats]:
+
+[b]Player fleet receives a power bonus of 1[/b]
+
+[b][color=green]Player Command Ship 1: Command Rating 2, Power 5, HP 1[/b][/color]
+[color=green]Player Ship 1: Power 4, Shield Mitigation 3, Shield Strength 8, HP 17 (Commanded +1 by Player Command Ship 1)[/color]
+
+[color=red]AI Ship 1: Power 2, Shield Mitigation 1, Shield Strength 8, HP 13 (Commanded +0 by AI Command Ship 0)[/color]
+[color=red]AI Ship 2: Power 2, Shield Mitigation 1, Shield Strength 8, HP 7 (Commanded +0 by AI Command Ship 0)[/color]
+[color=red]AI Ship 3: Power 2, Shield Mitigation 1, Shield Strength 8, HP 7 (Commanded +0 by AI Command Ship 0)[/color]
+
+[Combat Details]:
+[color=green]Player Ship 1 rolled 1 + 5 [+1 Sup] vs AI Ship 3's -5 + 2 [+0 Sup], dealing 8 damage [-1 Shield Mit][/color]!
+[color=blue]AI Ship 3 was destroyed![/color]
+[b][color=green]Player Command Ship 1 rolled -5 + 7 [+2 Sup] vs AI Ship 2's -3 + 2 [+0 Sup], dealing 2 damage [-1 Shield Mit][/b][/color].
+[color=green]Player Ship 1 rolled 2 + 5 [+1 Sup] vs AI Ship 2's -4 + 2 [+0 Sup], dealing 8 damage [-1 Shield Mit][/color]!
+[color=blue]AI Ship 2 was destroyed![/color]
+[color=green]Player Ship 1 rolled 5 + 5 [+1 Sup] vs AI Ship 1's -3 + 2 [+0 Sup], dealing 10 damage [-1 Shield Mit][/color]!
+[color=red]AI Ship 1 rolled -1 + 2 [+0 Sup] vs Player Ship 1's -5 + 5 [+1 Sup], dealing 0 damage! [-3 Shield Mit][/color]
+[b][color=green]Player Command Ship 1 rolled -4 + 7 [+2 Sup] vs AI Ship 1's -2 + 2 [+0 Sup], dealing 2 damage [-1 Shield Mit][/b][/color].
+[color=green]Player Ship 1 rolled 5 + 5 [+1 Sup] vs AI Ship 1's 4 + 2 [+0 Sup], dealing 3 damage [-1 Shield Mit][/color]!
+[color=blue]AI Ship 1 was destroyed![/color]
+
+
+*****RESULTS*****
+
+Player wins!
+Player Command Ship 1 gained 3XP!
+
+[Losses]:
+
+AI Ship 1 destroyed!
+AI Ship 2 destroyed!
+AI Ship 3 destroyed!
+
+[Finishing Stats]:
+[b][color=green]Player Command Ship 1: Command Rating 2, Power 5, HP 1/1[/b][/color]
+[color=green]Player Ship 1: Power 4, Shield Mitigation 3, Shield Strength 7, HP 17/17[/color]
+
+[color=red]AI Ship 1: Power 2, Shield Mitigation 1, Shield Strength 5, HP -2/13[/color]
+[color=red]AI Ship 2: Power 2, Shield Mitigation 1, Shield Strength 6, HP -3/7[/color]
+[color=red]AI Ship 3: Power 2, Shield Mitigation 1, Shield Strength 7, HP -1/7[/color]

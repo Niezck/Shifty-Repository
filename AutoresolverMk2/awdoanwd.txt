@@ -1,0 +1,132 @@
+*****Battle report: awdoanwd.txt*****
+
+[Starting Stats]:
+
+[b]Player fleet receives a power bonus of 1[/b]
+
+[b]Player fleet receives a temporary power bonus of 1 for 1 rounds.[/b]
+[b]Player fleet will flee if Blazing Dark is destroyed.[/b]
+[b][color=green]Gantrithor: Command Rating 1, Power 1, HP 1[/b][/color]
+[color=green]Blazing Dark: Power 3, Temp Power 1 for 1 exchanges, Shield Mit Gun 0/0, Shield Str Gun 2/1, Shield Mitigation 2, Shield Strength 4, HP 99, Shield HP 10 (Commanded +1 by Player Command Ship 1)[/color]
+
+[color=red]AI Ship 1: Power 3, Temp Power 1 for 1 exchanges, Shield Mit Gun 0/0, Shield Str Gun 0/0, Shield Mitigation 1, Shield Strength 8, HP 40, Shield HP 0 (Commanded +0 by AI Command Ship 0)[/color]
+[color=red]AI Ship 2: Power 3, Temp Power 1 for 1 exchanges, Shield Mit Gun 0/0, Shield Str Gun 0/0, Shield Mitigation 1, Shield Strength 8, HP 50, Shield HP 0 (Commanded +0 by AI Command Ship 0)[/color]
+
+[Combat Details]:
+[color=red]AI Ship 2 rolled 5 + 3 [+0 Sup] vs Blazing Dark's -2 + 4 [+1 Sup], dealing 4 damage! [-2 Shield Mit][/color]
+Player fleet has lost its temporary power bonus!
+Blazing Dark has lost its temporary power bonus!
+AI Ship 2 has lost its temporary power bonus!
+[color=red]AI Ship 1 rolled 6 + 3 [+0 Sup] vs Blazing Dark's 2 + 2 [+1 Sup], dealing 3 damage! [-2 Shield Mit][/color]
+[color=green]Blazing Dark's shields have collapsed![/color]
+AI Ship 1 has lost its temporary power bonus!
+[color=green]Blazing Dark rolled 3 + 2 [+1 Sup] vs AI Ship 1's -1 + 2 [+0 Sup], dealing 3 damage [-1 Shield Mit][/color]!
+AI Ship 1's shield strength has been dropped by 2 for 1 exchanges!
+[color=red]AI Ship 2 rolled 3 + 2 [+0 Sup] vs Blazing Dark's 1 + 2 [+1 Sup], dealing 2 damage! [-0 Shield Mit][/color]
+[color=red]AI Ship 1 rolled 0 + 2 [+0 Sup] vs Blazing Dark's -4 + 2 [+1 Sup], dealing 4 damage! [-0 Shield Mit][/color]
+AI Ship 1 has had 2 shield strength restored!
+[color=green]Blazing Dark rolled 4 + 2 [+1 Sup] vs AI Ship 1's 2 + 2 [+0 Sup], dealing 1 damage [-1 Shield Mit][/color]!
+AI Ship 1's shield strength has been dropped by 2 for 1 exchanges!
+[color=green]Blazing Dark rolled 4 + 2 [+1 Sup] vs AI Ship 1's -1 + 2 [+0 Sup], dealing 4 damage [-1 Shield Mit][/color]!
+AI Ship 1's shield strength has been dropped by 2 for 1 exchanges!
+AI Ship 1 has had 2 shield strength restored!
+[color=red]AI Ship 1 rolled 4 + 2 [+0 Sup] vs Blazing Dark's 1 + 2 [+1 Sup], dealing 3 damage! [-0 Shield Mit][/color]
+AI Ship 1 has had 2 shield strength restored!
+[color=green]Blazing Dark rolled 2 + 2 [+1 Sup] vs AI Ship 2's -1 + 2 [+0 Sup], dealing 2 damage [-1 Shield Mit][/color]!
+AI Ship 2's shield strength has been dropped by 2 for 1 exchanges!
+[color=green]Blazing Dark rolled 1 + 2 [+1 Sup] vs AI Ship 2's -5 + 2 [+0 Sup], dealing 5 damage [-1 Shield Mit][/color]!
+AI Ship 2's shield strength has been dropped by 2 for 1 exchanges!
+AI Ship 2 has had 2 shield strength restored!
+[color=green]Blazing Dark rolled 2 + 2 [+1 Sup] vs AI Ship 2's 1 + 2 [+0 Sup], dealing 0 damage [-1 Shield Mit][/color]!
+AI Ship 2's shield strength has been dropped by 2 for 1 exchanges!
+AI Ship 2 has had 2 shield strength restored!
+[color=green]Blazing Dark rolled -3 + 2 [+1 Sup] vs AI Ship 2's -4 + 2 [+0 Sup], dealing 0 damage [-1 Shield Mit][/color]!
+AI Ship 2's shield strength has been dropped by 2 for 1 exchanges!
+[color=red]AI Ship 2's shields have collapsed![/color]
+AI Ship 2 has had 2 shield strength restored!
+[color=red]AI Ship 2 rolled 1 + 2 [+0 Sup] vs Blazing Dark's -1 + 2 [+1 Sup], dealing 2 damage! [-0 Shield Mit][/color]
+AI Ship 2 has had 2 shield strength restored!
+[color=green]Blazing Dark rolled 3 + 2 [+1 Sup] vs AI Ship 2's 1 + 2 [+0 Sup], dealing 2 damage [-0 Shield Mit][/color]!
+AI Ship 2's shield strength has been dropped by 2 for 1 exchanges!
+[color=red]AI Ship 1 rolled 4 + 2 [+0 Sup] vs Blazing Dark's -5 + 2 [+1 Sup], dealing 9 damage! [-0 Shield Mit][/color]
+[color=green]Blazing Dark rolled -1 + 2 [+1 Sup] vs AI Ship 1's -5 + 2 [+0 Sup], dealing 3 damage [-1 Shield Mit][/color]!
+AI Ship 1's shield strength has been dropped by 2 for 1 exchanges!
+[color=green]Blazing Dark rolled 0 + 2 [+1 Sup] vs AI Ship 2's -2 + 2 [+0 Sup], dealing 2 damage [-0 Shield Mit][/color]!
+AI Ship 2's shield strength has been dropped by 2 for 1 exchanges!
+AI Ship 2 has had 2 shield strength restored!
+[b][color=green]Gantrithor rolled -1 + 2 [+1 Sup] vs AI Ship 1's -3 + 2 [+0 Sup], dealing 1 damage [-1 Shield Mit][/b][/color].
+AI Ship 1 has had 2 shield strength restored!
+[color=green]Blazing Dark rolled 5 + 2 [+1 Sup] vs AI Ship 2's -4 + 2 [+0 Sup], dealing 9 damage [-0 Shield Mit][/color]!
+AI Ship 2's shield strength has been dropped by 2 for 1 exchanges!
+AI Ship 2 has had 2 shield strength restored!
+[color=red]AI Ship 1 rolled -1 + 2 [+0 Sup] vs Blazing Dark's -2 + 2 [+1 Sup], dealing 1 damage! [-0 Shield Mit][/color]
+[color=red]AI Ship 1 rolled -4 + 2 [+0 Sup] vs Blazing Dark's -5 + 2 [+1 Sup], dealing 1 damage! [-0 Shield Mit][/color]
+[color=red]AI Ship 1 rolled 5 + 2 [+0 Sup] vs Blazing Dark's 3 + 2 [+1 Sup], dealing 2 damage! [-0 Shield Mit][/color]
+[color=red]AI Ship 1 rolled 2 + 2 [+0 Sup] vs Blazing Dark's -3 + 2 [+1 Sup], dealing 5 damage! [-0 Shield Mit][/color]
+[color=green]Blazing Dark rolled 5 + 2 [+1 Sup] vs AI Ship 2's 1 + 2 [+0 Sup], dealing 4 damage [-0 Shield Mit][/color]!
+AI Ship 2's shield strength has been dropped by 2 for 1 exchanges!
+AI Ship 2 has had 2 shield strength restored!
+[color=red]AI Ship 1 rolled -1 + 2 [+0 Sup] vs Blazing Dark's -4 + 2 [+1 Sup], dealing 3 damage! [-0 Shield Mit][/color]
+[color=green]Blazing Dark rolled 3 + 2 [+1 Sup] vs AI Ship 1's -5 + 2 [+0 Sup], dealing 7 damage [-1 Shield Mit][/color]!
+AI Ship 1's shield strength has been dropped by 2 for 1 exchanges!
+[color=red]AI Ship 1's shields have collapsed![/color]
+[color=red]AI Ship 1 rolled 0 + 2 [+0 Sup] vs Blazing Dark's -5 + 2 [+1 Sup], dealing 5 damage! [-0 Shield Mit][/color]
+AI Ship 1 has had 2 shield strength restored!
+[color=green]Blazing Dark rolled 5 + 2 [+1 Sup] vs AI Ship 1's 0 + 2 [+0 Sup], dealing 5 damage [-0 Shield Mit][/color]!
+AI Ship 1's shield strength has been dropped by 2 for 1 exchanges!
+[color=green]Blazing Dark rolled 5 + 2 [+1 Sup] vs AI Ship 1's 4 + 2 [+0 Sup], dealing 1 damage [-0 Shield Mit][/color]!
+AI Ship 1's shield strength has been dropped by 2 for 1 exchanges!
+AI Ship 1 has had 2 shield strength restored!
+[color=green]Blazing Dark rolled 5 + 2 [+1 Sup] vs AI Ship 1's -1 + 2 [+0 Sup], dealing 6 damage [-0 Shield Mit][/color]!
+AI Ship 1's shield strength has been dropped by 2 for 1 exchanges!
+AI Ship 1 has had 2 shield strength restored!
+[color=red]AI Ship 2 rolled 1 + 2 [+0 Sup] vs Blazing Dark's -2 + 2 [+1 Sup], dealing 3 damage! [-0 Shield Mit][/color]
+AI Ship 2 has had 2 shield strength restored!
+[color=red]AI Ship 2 rolled 3 + 2 [+0 Sup] vs Blazing Dark's 1 + 2 [+1 Sup], dealing 2 damage! [-0 Shield Mit][/color]
+[b][color=green]Gantrithor rolled -2 + 2 [+1 Sup] vs AI Ship 2's 4 + 2 [+0 Sup], dealing 0 damage [-0 Shield Mit][/b][/color].
+[color=red]AI Ship 2 rolled 3 + 2 [+0 Sup] vs Blazing Dark's 0 + 2 [+1 Sup], dealing 3 damage! [-0 Shield Mit][/color]
+[color=green]Blazing Dark rolled 2 + 2 [+1 Sup] vs AI Ship 1's 1 + 2 [+0 Sup], dealing 1 damage [-0 Shield Mit][/color]!
+AI Ship 1's shield strength has been dropped by 2 for 1 exchanges!
+AI Ship 1 has had 2 shield strength restored!
+[color=green]Blazing Dark rolled 2 + 2 [+1 Sup] vs AI Ship 1's -1 + 2 [+0 Sup], dealing 3 damage [-0 Shield Mit][/color]!
+AI Ship 1's shield strength has been dropped by 2 for 1 exchanges!
+AI Ship 1 has had 2 shield strength restored!
+[color=red]AI Ship 1 rolled 6 + 2 [+0 Sup] vs Blazing Dark's 0 + 2 [+1 Sup], dealing 6 damage! [-0 Shield Mit][/color]
+AI Ship 1 has had 2 shield strength restored!
+[color=red]AI Ship 2 rolled 3 + 2 [+0 Sup] vs Blazing Dark's 1 + 2 [+1 Sup], dealing 2 damage! [-0 Shield Mit][/color]
+[color=red]AI Ship 1 rolled 5 + 2 [+0 Sup] vs Blazing Dark's -1 + 2 [+1 Sup], dealing 6 damage! [-0 Shield Mit][/color]
+[b][color=green]Gantrithor rolled -5 + 2 [+1 Sup] vs AI Ship 1's 1 + 2 [+0 Sup], dealing 0 damage [-0 Shield Mit][/b][/color].
+[color=red]AI Ship 1 rolled 5 + 2 [+0 Sup] vs Blazing Dark's -4 + 2 [+1 Sup], dealing 9 damage! [-0 Shield Mit][/color]
+[b][color=green]Gantrithor rolled 6 + 2 [+1 Sup] vs AI Ship 2's 1 + 2 [+0 Sup], dealing 5 damage [-0 Shield Mit][/b][/color].
+[color=green]Blazing Dark rolled 4 + 2 [+1 Sup] vs AI Ship 1's -2 + 2 [+0 Sup], dealing 6 damage [-0 Shield Mit][/color]!
+AI Ship 1's shield strength has been dropped by 2 for 1 exchanges!
+[color=blue]AI Ship 1 was destroyed![/color]
+[color=green]Blazing Dark rolled 5 + 2 [+1 Sup] vs AI Ship 2's -5 + 2 [+0 Sup], dealing 10 damage [-0 Shield Mit][/color]!
+AI Ship 2's shield strength has been dropped by 2 for 1 exchanges!
+[color=red]AI Ship 2 rolled 5 + 2 [+0 Sup] vs Blazing Dark's -5 + 2 [+1 Sup], dealing 10 damage! [-0 Shield Mit][/color]
+AI Ship 2 has had 2 shield strength restored!
+Blazing Dark and AI Ship 2 fought but nobody gained an advantage!
+[color=green]Blazing Dark rolled 5 + 2 [+1 Sup] vs AI Ship 2's -5 + 2 [+0 Sup], dealing 10 damage [-0 Shield Mit][/color]!
+AI Ship 2's shield strength has been dropped by 2 for 1 exchanges!
+[color=green]Blazing Dark rolled 4 + 2 [+1 Sup] vs AI Ship 2's -4 + 2 [+0 Sup], dealing 8 damage [-0 Shield Mit][/color]!
+AI Ship 2's shield strength has been dropped by 2 for 1 exchanges!
+[color=blue]AI Ship 2 was destroyed![/color]
+AI Ship 2 has had 2 shield strength restored!
+
+
+*****RESULTS*****
+
+Player wins!
+Gantrithor gained 2XP!
+
+[Losses]:
+
+AI Ship 1 destroyed!
+AI Ship 2 destroyed!
+
+[Finishing Stats]:
+[b][color=green]Gantrithor1: Command Rating 1, Power 1, HP 1/1[/b][/color]
+[color=green]Blazing Dark: Power 1, Shield Mitigation 0, Shield Strength 0, HP 14/99[/color]
+
+[color=red]AI Ship 1: Power 2, Shield Mitigation 0, Shield Strength 0, HP -1/40[/color]
+[color=red]AI Ship 2: Power 2, Shield Mitigation 0, Shield Strength 2, HP -7/50[/color]

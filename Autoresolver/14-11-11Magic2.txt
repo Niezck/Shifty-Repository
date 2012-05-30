@@ -1,0 +1,52 @@
+*****Battle report: 14-11-11Magic2.txt*****
+
+[Starting Stats]:
+
+[color=green]Player Command Ship 1 Command 3, Power 2, HP 1[/color]
+[color=green]Player ship 1: HP [10] Power [2] Shield Mitigation [2] Shield Strength [8][/color]
+[color=green]Player ship 2: HP [6] Power [2] Shield Mitigation [2] Shield Strength [8][/color]
+
+[color=red]AI ship 1: HP [1] Power [2] Shield Mitigation [1] Shield Strength [8][/color]
+[color=red]AI ship 2: HP [5] Power [2] Shield Mitigation [1] Shield Strength [8][/color]
+[color=red]AI ship 3: HP [5] Power [2] Shield Mitigation [1] Shield Strength [8][/color]
+
+[Combat Details]
+
+[color=green][b]Player Command Ship 1 rolled -5 + 5 [+3 Sup] vs AI ship 2's -5 + 2, dealing 2 [-1 Mit] damage.[/color][/b]
+[color=green]Player ship 1 rolled -5 + 4 [+2 Sup] vs AI ship 2's -5 + 2, dealing 1 [-1 Mit] damage.[/color]
+[color=red]AI ship 1 rolled 4 + 2 vs Player ship 1's -1 + 4 [+2 Sup], dealing 1 [-2 Mit] damage.[/color]
+[color=green][b]Player Command Ship 1 rolled -1 + 5 [+3 Sup] vs AI ship 1's 5 + 2, dealing 0 [-1 Mit] damage.[/color][/b]
+[color=red]AI ship 1 rolled 5 + 2 vs Player ship 1's -1 + 4 [+2 Sup], dealing 2 [-2 Mit] damage.[/color]
+[color=green][b]Player Command Ship 1 rolled 1 + 5 [+3 Sup] vs AI ship 1's -3 + 2, dealing 6 [-1 Mit] damage.[/color][/b]
+[color=red]AI ship 1's shields have collapsed![/color]
+[color=blue]AI ship 1 been destroyed.[/color]
+[color=green]Player ship 1 rolled 1 + 4 [+2 Sup] vs AI ship 2's -3 + 2, dealing 5 [-1 Mit] damage.[/color]
+[color=red]AI ship 2's shields have collapsed![/color]
+[color=blue]AI ship 2 been destroyed.[/color]
+[color=red]AI ship 3 rolled 5 + 2 vs Player ship 1's -1 + 4 [+2 Sup], dealing 2 [-2 Mit] damage.[/color]
+[color=green]Player ship 1 rolled 1 + 4 [+2 Sup] vs AI ship 3's -5 + 2, dealing 8 [-0 Mit] damage.[/color]
+[color=red]AI ship 3's shields have collapsed![/color]
+[color=blue]AI ship 3 been destroyed.[/color]
+
+
+*****RESULTS*****
+
+Player ships Left: 2
+AI ships Left: 0
+
+Player wins!
+Player Command Ship 1 gained 4XP
+
+[Losses]:
+[color=red]AI ship 1 dead.[/color]
+[color=red]AI ship 2 dead.[/color]
+[color=red]AI ship 3 dead.[/color]
+
+[Casualties]
+[b][color=green]Player Command Ship 1: HP 1[/color][/b]
+[color=green]Player ship 1: HP 5/10[/color] [Supported 2 by Command Ship 1]
+[color=green]Player ship 2: HP 6/6[/color] [Supported 2 by Command Ship 1]
+
+[color=red]AI ship 1: HP -5/1[/color]
+[color=red]AI ship 2: HP -3/5[/color]
+[color=red]AI ship 3: HP -3/5[/color]
