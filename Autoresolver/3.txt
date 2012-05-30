@@ -1,5 +1,0 @@
-*****Battle report: 3.txt*****
-
-[Starting Stats]:
-Player General 1 Support 1
-Player General 2 Support 1
